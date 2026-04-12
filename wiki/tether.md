@@ -1,7 +1,7 @@
 ---
 aliases: [Tether, USDT, QVAC]
 first_seen: 2026-04-09
-last_updated: 2026-04-09
+last_updated: 2026-04-05
 tags: [crypto, tech]
 ---
 
@@ -17,6 +17,7 @@ USDT 發行商。近期跨足 AI 領域推出 QVAC SDK。
 ## Key Events
 
 - **2026-04-09** — 推出 QVAC SDK，可在任何設備上訓練和運行 AI。Source: [[raw/2026/04/09]]
+- **2026-04-05** — 推動 $5,000 億估值融資（如成功超越 Bank of America），但市場需求不足可能推遲。USDT 市佔跌破 60%。Source: [[raw/2026/04/05]]
 
 ## Related
 

@@ -11,13 +11,16 @@ tags: [crypto]
 
 ## Current Status
 
-- $MSBT 已上線，費率 0.14%，首日成交 $2,700 萬（MS 史上最佳 ETF 首日）
-- 16,000 名理財顧問現有受託責任推薦 BTC 產品
+- $MSBT 04/08 正式上線交易，Bloomberg 分析師稱可能引爆費率戰
+- Strategy CEO 稱之「Monster Bitcoin」
+- $6 兆 AUM + 16,000 名理財顧問現可推薦 BTC 產品
+- 首日成交 $2,700 萬（MS 史上最佳 ETF 首日）
 
 ## Key Events
 
-- **2026-04-09** — $MSBT 正式上線，首日成交超 $2,700 萬。Source: [[raw/2026/04/09]]
+- **2026-04-09** — $MSBT 首日成交超 $2,700 萬。Source: [[raw/2026/04/09]]
+- **2026-04-08** — MSBT 正式交易。Bloomberg 分析師稱可能引爆費率戰。Strategy CEO 稱之「Monster Bitcoin」。Source: [[raw/2026/04/08]]
 
 ## Related
 
-[[btc-etf]] [[btc]]
+[[btc-etf]] [[btc]] [[schwab]] [[blackrock]]
