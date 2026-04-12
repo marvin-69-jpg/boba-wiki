@@ -168,7 +168,7 @@ Step 5: Update Meta
 ### As Obsidian Vault
 
 1. Clone this repo
-2. Install [Obsidian Git plugin](https://github.com/Obsidian-git/obsidian-git)
+2. Install [Obsidian Git plugin](https://github.com/Vinzent03/obsidian-git)
 3. Open the repo as an Obsidian vault
 4. Set auto-pull interval (e.g. every 10 minutes)
 5. Browse wiki pages, explore graph view, search with `[[wiki-links]]`
