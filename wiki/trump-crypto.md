@@ -1,6 +1,6 @@
 ---
 aliases: [WLFI, World Liberty Financial, TRUMP coin, Trump 加密]
-first_seen: 2026-03-30
+first_seen: 2026-03-26
 last_updated: 2026-04-12
 tags: [crypto, regulation, people]
 ---
@@ -24,6 +24,8 @@ tags: [crypto, regulation, people]
 - **2026-04-12** — 瘋傳長文（6K 讚、2K 轉）以 WLFI「Web3 大使」第一人稱逐條拆解 Trump 家族加密利益結構。每段以「這些事件無關」反諷收尾。Source: [[raw/2026/04/12]]
 - **2026-04-10** — 參議員公開質疑 TRUMP 幣午宴。排行榜活動延 4 天到 4/14。Source: [[raw/2026/04/10]]
 - **2026-03-30** — TRUMP 團隊 BitGo 地址 2 小時向 OKX 充值 548 萬枚 TRUMP。團隊份額 2 個月從 $8,164 萬縮水至 $1,606 萬（-80%）。Fox News 不滿意率 59%（兩任期最高）。Polymarket 民主黨 2026 中期橫掃概率 49%。Source: [[raw/2026/03/30]]
+- **2026-03-28** — Trump 在邁阿密喊「美國要當比特幣超級強國」。Source: [[raw/2026/03/28]]
+- **2026-03-26** — 團隊轉移 697 萬枚 TRUMP，4/15 有大額解鎖。Source: [[raw/2026/03/26]]
 
 ## Related
 

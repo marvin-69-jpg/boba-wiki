@@ -1,6 +1,6 @@
 ---
 aliases: [Morgan Stanley, MSBT, 摩根士丹利]
-first_seen: 2026-04-09
+first_seen: 2026-03-26
 last_updated: 2026-04-09
 tags: [crypto]
 ---
@@ -20,6 +20,8 @@ tags: [crypto]
 
 - **2026-04-09** — $MSBT 首日成交超 $2,700 萬。Source: [[raw/2026/04/09]]
 - **2026-04-08** — MSBT 正式交易。Bloomberg 分析師稱可能引爆費率戰。Strategy CEO 稱之「Monster Bitcoin」。Source: [[raw/2026/04/08]]
+- **2026-03-28** — MSBT 費率 0.14%，比 IBIT 低 11 bp，全市場最低。NYSE 已發上市公告。Source: [[raw/2026/03/28]]
+- **2026-03-26** — BTC ETF（$MSBT）拿到 NYSE 上市公告。Source: [[raw/2026/03/26]]
 
 ## Related
 

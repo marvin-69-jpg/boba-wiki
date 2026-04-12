@@ -1,6 +1,6 @@
 ---
 aliases: [SOL, Solana]
-first_seen: 2026-03-31
+first_seen: 2026-03-25
 last_updated: 2026-04-12
 tags: [crypto]
 ---
@@ -23,6 +23,9 @@ tags: [crypto]
 - **2026-04-09** — VAT 系統讓驗證節點年成本從 $60K 降到 $1K，降 98%。Source: [[raw/2026/04/09]]
 - **2026-04-03** — SoFi 在 Solana 上建 24/7 法幣 + 加密銀行平台。初始夥伴 Cumberland/Mastercard/Wintermute/Galaxy/Jupiter。Source: [[raw/2026/04/03]]
 - **2026-04-01** — Phantom 開放 US 銀行入金/Apple Pay/簽帳卡。Solana 2 月穩定幣交易量 $6,500 億（月增 3 倍，CME 黃金 9 倍）。Source: [[raw/2026/04/01]]
+- **2026-03-28** — USDC Treasury 新鑄 2.5 億 USDC。x402 協議累計 1 億筆 agent 交易，Q1 超過整個 2025 年。Source: [[raw/2026/03/28]]
+- **2026-03-26** — 已處理 1,500 萬筆鏈上 AI 支付。Stripe MPP 正式支援 Solana。Source: [[raw/2026/03/26]]
+- **2026-03-25** — 支援 Stripe 和 Tempo 的 Machine Payments Protocol（MPP），AI Agent 自動鏈上付款。Source: [[raw/2026/03/25]]
 
 ## Related
 

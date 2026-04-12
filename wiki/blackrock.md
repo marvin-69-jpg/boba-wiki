@@ -1,6 +1,6 @@
 ---
 aliases: [BlackRock, 貝萊德, BLK]
-first_seen: 2026-04-02
+first_seen: 2026-03-25
 last_updated: 2026-04-08
 tags: [crypto]
 ---
@@ -20,6 +20,8 @@ tags: [crypto]
 **2026-04-08** — 從 Coinbase Prime 收到 2,607 BTC（~$1.78 億）及 28,391 ETH（~$5,900 萬）。散戶恐慌拋售之際，機構持續累積。Source: [[raw/2026/04/08]]
 
 **2026-04-02** — 公告 iShares BTC Premium Income ETF，代號 $BITA。Source: [[raw/2026/04/02]]
+
+**2026-03-25** — 數位資產主管 Mitchnick：AI Agent 更可能用 BTC 交易（「computer-native money」）。Source: [[raw/2026/03/25]]
 
 ## Related
 

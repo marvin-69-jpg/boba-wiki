@@ -1,6 +1,6 @@
 ---
 aliases: [穩定幣, stablecoin]
-first_seen: 2026-03-30
+first_seen: 2026-03-28
 last_updated: 2026-04-12
 tags: [crypto, defi]
 ---
@@ -26,7 +26,8 @@ tags: [crypto, defi]
 - **2026-04-05** — 總市值 $3,172 億歷史新高。USDT 市佔跌破 60%。USDS（Sky）一週 +9.57% 成第三大。USDC 7 天減 $17 億。Tether 推 $5,000 億估值融資（可能推遲）。Source: [[raw/2026/04/05]]
 - **2026-04-02** — GENIUS Act 實施規則發布（87 頁）。伊朗 IRGC 用穩定幣收海峽過路費。Source: [[raw/2026/04/02]]
 - **2026-03-30** — 穩定幣市值 $3,100 億。USDT 佔 58%。Source: [[raw/2026/03/30]]
+- **2026-03-28** — 總市值 $316B（USDT $184.1B + USDC $77.8B）。參議員 Tillis 辦公室確認下週公布穩定幣收益條款立法文本。Source: [[raw/2026/03/28]]
 
 ## Related
 
-[[circle]] [[sec]] [[solana]] [[rwa]] [[us-macro]] [[genius-act]] [[tether]] [[polymarket]]
+[[circle]] [[sec]] [[solana]] [[rwa]] [[us-macro]] [[genius-act]] [[tether]] [[polymarket]] [[resolv]]

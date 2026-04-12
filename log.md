@@ -2,6 +2,20 @@
 
 > Append-only record of all wiki operations.
 
+## [2026-04-12] ingest | BOBA Daily 03/22 ~ 03/28 (backfill)
+
+Backfill of 7 days of historical daily reports, predating the initial wiki bootstrap.
+
+- **Raw sources processed**: raw/2026/03/22, 03/23, 03/24, 03/25, 03/26, 03/27, 03/28
+- **Created (8 pages)**:
+  - gold.md, resolv.md, balancer.md, tesla.md, qwen.md, openclaw.md, lummis.md, missouri-btc-reserve.md
+- **Updated (21 pages)**:
+  - btc.md, eth.md, btc-etf.md, strategy.md, mara.md, coinbase.md, solana.md, morgan-stanley.md, tether.md, stablecoins.md
+  - us-iran.md, us-macro.md, sec.md, polymarket.md, aave.md, anthropic.md, openai.md, blackrock.md, franklin-templeton.md, trump-crypto.md, spacex.md, rwa.md
+- **Key narrative**: 川普 48hr 最後通牒→伊朗拒退讓→油價暴漲暴跌→菲律賓第一個能源緊急狀態→化肥漲 89%→以色列首次打核設施→胡塞威脅關曼德海峽。BTC 從 $70K 閃跌 $68K 反彈 $71K 再跌至 $66K。黃金閃崩 18.5%。Balancer $1.28 億被駭關閉、Resolv $2,500 萬攻擊。Tether 請四大審計、SEC 預告代幣化豁免、白宮批准 401(k) 開放加密、Morgan Stanley MSBT 0.14% 全市場最低費率
+- **first_seen dates updated**: btc→03-22, eth→03-22, btc-etf→03-22, strategy→03-24, mara→03-27, solana→03-25, morgan-stanley→03-26, tether→03-25, stablecoins→03-28, us-macro→03-22, sec→03-22, polymarket→03-24, aave→03-24, anthropic→03-22, openai→03-22, blackrock→03-25, franklin-templeton→03-26, trump-crypto→03-26, spacex→03-26, rwa→03-25
+- **New cross-links**: gold↔us-macro, resolv↔stablecoins, balancer↔aave, tesla↔spacex
+
 ## [2026-04-12] ingest | BOBA Daily 03/30 ~ 04/08 (batch)
 
 Batch ingest of 10 days of historical daily reports to backfill wiki coverage from war start to ceasefire.

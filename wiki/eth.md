@@ -1,6 +1,6 @@
 ---
 aliases: [Ethereum, 以太坊, ETH]
-first_seen: 2026-03-30
+first_seen: 2026-03-22
 last_updated: 2026-04-12
 tags: [crypto]
 ---
@@ -28,6 +28,9 @@ tags: [crypto]
 - **2026-04-05** — 衍生品淨成交量 2023 以來首轉正，買盤 $1.04 億。Source: [[raw/2026/04/05]]
 - **2026-04-04** — 持平。疑似 Bitmine 收 4 萬 ETH（$82M）。EF 追加質押至 67,551 枚。交易所餘額 1,500 萬枚 10 年新低。Q1 鏈上 2 億筆歷史新高。Source: [[raw/2026/04/04]]
 - **2026-03-30** — Polymarket 上 ETH 被 USDT 翻轉概率升至 59%。ETH ETF AUM 從 $318 億跌到 $117 億（-65%）。30 天淨增 81,790 枚（年化 +0.82%）。Source: [[raw/2026/03/30]]
+- **2026-03-28** — 失守 $2,000。Source: [[raw/2026/03/28]]
+- **2026-03-25** — 巨鯨從 Binance 提走 74,959 ETH（$1.61 億），BitMine 從 Kraken 搬走 67,111 ETH（$1.45 億），Blockchain Capital 再質押 10,976 ETH。做市商 Flowdesk 往 Binance 存 63,250 ETH（$1.35 億）。Source: [[raw/2026/03/25]]
+- **2026-03-22** — ETP 過去三週累計淨流入 $3.34 億，機構持續吸籌中（同期 BTC ETP 三週淨流入 $27 億）。Source: [[raw/2026/03/22]]
 
 ## Related
 
