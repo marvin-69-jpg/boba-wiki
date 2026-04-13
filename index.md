@@ -6,27 +6,27 @@
 
 | Page | Summary | Tags | Last Updated |
 |------|---------|------|-------------|
-| [[wiki/btc\|BTC]] | 比特幣，停火後突破 $72K，Hash Ribbons 底部訊號觸發，機構逆勢吸籌 | crypto | 2026-04-12 |
-| [[wiki/eth\|ETH]] | 以太坊，衍生品首轉淨買入，BitMine 持倉 480 萬枚，中東衝突表現僅次黃金 | crypto | 2026-04-12 |
+| [[wiki/btc\|BTC]] | 比特幣，$71,067（-0.9%），恐懼指數 12，美伊談判破裂後承壓，Saylor「Think ₿igger」暗示 Strategy 加碼 | crypto | 2026-04-13 |
+| [[wiki/eth\|ETH]] | 以太坊，$2,193（-1.3%），鯨魚掛 5,000 ETH 賣單，25 倍空單差 $9 就爆倉 | crypto | 2026-04-13 |
 | [[wiki/btc-etf\|BTC ETF]] | BTC ETF 生態，MSBT 上線引費率戰，停火前連兩天 $9+ 億流入 | crypto, defi | 2026-04-12 |
-| [[wiki/us-iran\|美伊衝突]] | 從 3/22 川普 48hr 最後通牒、伊朗精準飛彈打以色列，到 4/08 停火生效，霍爾木茲重開但 $2M/船，油價崩 23% | macro | 2026-04-12 |
-| [[wiki/us-macro\|美國總經]] | 停火後油崩但通膨已 embedded，ISM 價格 78.3，消費者預期 6.2%，做空 15 年新高 | macro | 2026-04-12 |
+| [[wiki/us-iran\|美伊衝突]] | 談判最終破裂，霍爾木茲封鎖今晚啟動，WTI +10%，沙烏地東西油管修復可繞道 700 萬桶/日 | macro | 2026-04-13 |
+| [[wiki/us-macro\|美國總經]] | 美伊破裂引爆 WTI +10%，美股期貨全跌，中國稀土 Q2 季漲 45%，中美資源戰升溫 | macro | 2026-04-13 |
 | [[wiki/cz\|CZ]] | Binance 創辦人，vs OKX Star 口水戰，被牽入 WLFI 利益鏈 | people, crypto | 2026-04-12 |
 | [[wiki/binance\|Binance]] | 全球最大交易所，TradFi 合約 Q1 成長 188%，上架美股永續 | crypto | 2026-04-12 |
 | [[wiki/okx\|OKX]] | 全球第二大交易所，CEO Star 與 CZ 公開衝突 | crypto | 2026-04-10 |
 | [[wiki/sec\|SEC / CLARITY Act]] | 加密監管加速，Reg Crypto 送白宮審查，CFTC 告三州護預測市場管轄 | regulation | 2026-04-12 |
-| [[wiki/trump-crypto\|Trump 加密利益鏈]] | WLFI + TRUMP coin，團隊拋售 -80%，利益結構被長文拆解 | crypto, regulation | 2026-04-12 |
-| [[wiki/anthropic\|Anthropic]] | ARR 突破 $300 億（3 月內 3 倍），Claude EsoLang-Bench 20/20，博通供 TPU，封殺 OpenClaw | tech | 2026-04-11 |
-| [[wiki/openai\|OpenAI]] | 計劃最快 Q4 IPO，Sam Altman 住所遭攻擊，Stargate 主管離職 | tech | 2026-04-11 |
+| [[wiki/trump-crypto\|Trump 加密利益鏈]] | WLFI vs Justin Sun 法律戰，$TRUMP 鯨魚囤貨，Chaos Labs 報告 WLFI 在 Dolomite 槓桿佔 TVL 82.7% | crypto, regulation | 2026-04-13 |
+| [[wiki/anthropic\|Anthropic]] | ARR 突破 $300 億，Claude Code「epitaxy」即將支援多 repo + Cowork 佈局，Claude Mythos 引白宮安全關注 | tech | 2026-04-13 |
+| [[wiki/openai\|OpenAI]] | 計劃最快 Q4 IPO，Codex 測試「Scratchpad」並行多 chat，與 Anthropic 在 AI 輔助開發賽道正面交鋒 | tech | 2026-04-13 |
 | [[wiki/circle\|Circle]] | USDC 發行商，cirBTC 挑戰 WBTC，收購 Liquity，x402 微支付 1.4 億筆 | crypto, defi | 2026-04-12 |
 | [[wiki/stablecoins\|穩定幣]] | 總市值 $3,172 億歷史新高，GENIUS Act 推進，USDT 市佔跌破 60% | crypto, defi | 2026-04-12 |
 | [[wiki/tether\|Tether]] | USDT 發行商，推 $5,000 億估值融資（可能推遲），跨足 AI 推 QVAC SDK | crypto, tech | 2026-04-09 |
-| [[wiki/solana\|Solana]] | SoFi 在 Solana 建銀行，Phantom 開放美國入金，穩定幣月量 $6,500 億 | crypto | 2026-04-12 |
+| [[wiki/solana\|Solana]] | Kamino RWA 借貸破 $10 億，FTX/Alameda 解除質押 198,426 SOL（$1,621 萬）流回市場 | crypto | 2026-04-13 |
 | [[wiki/ton\|TON]] | Telegram 鏈，速度升級 10 倍，七步計劃第一步 | crypto | 2026-04-09 |
 | [[wiki/rwa\|RWA]] | 真實世界資產代幣化，永續合約 6 月漲 40 倍，Franklin Templeton 代幣化 ETF | crypto, defi | 2026-04-12 |
-| [[wiki/hyperliquid\|Hyperliquid]] | 活躍地址破 25 萬，RWA 永續 $23 億新高，年營收 $10 億，perp DEX 唯一逆勢成長 | crypto, defi | 2026-04-11 |
+| [[wiki/hyperliquid\|Hyperliquid]] | 活躍地址破 25 萬，RWA 永續 $23 億，Bitwise 申請 ETF，巨鯨 BTC vs HYPE 倉位淨虧 $132 萬 | crypto, defi | 2026-04-13 |
 | [[wiki/bittensor\|Bittensor]] | 去中心化 AI 網路，基金會強關子網引發治理爭議 | crypto, tech | 2026-04-11 |
-| [[wiki/strategy\|Strategy]] | Saylor 3 月淨買 29,590 BTC（同期全網僅挖 13,950），持有 762K+ BTC | crypto | 2026-04-09 |
+| [[wiki/strategy\|Strategy]] | Saylor 3 月淨買 29,590 BTC，持有 762K+ BTC，4/13 發「Think ₿igger」暗示再度加碼 | crypto | 2026-04-13 |
 | [[wiki/scroll\|Scroll]] | 以太坊 L2，六天調高手續費 1,280 倍引發爭議 | crypto | 2026-04-12 |
 | [[wiki/morgan-stanley\|Morgan Stanley]] | MSBT 正式上線，費率最低可能引爆費率戰，$6 兆 AUM | crypto | 2026-04-09 |
 | [[wiki/japan-crypto-tax\|日本加密稅改]] | 稅率從 55% 降至 20%，已於 4/10 生效 | regulation | 2026-04-12 |
@@ -56,6 +56,11 @@
 | [[wiki/gold\|黃金]] | 閃崩 18.5% 蒸發 $1.5 兆後反彈回 $4,500，JPMorgan 年底目標 $6,300 | macro | 2026-03-28 |
 | [[wiki/resolv\|Resolv Protocol]] | USR 穩定幣遭攻擊崩 70%，攻擊者 17 分鐘鑄 5,000 萬顆提走 $2,500 萬 ETH，協議暫停 | crypto, defi | 2026-03-28 |
 | [[wiki/balancer\|Balancer]] | V2 漏洞被抽走 $1.28 億，TVL 跌 95%，公司實體關閉轉 DAO 運作 | crypto, defi | 2026-03-28 |
+| [[wiki/justin-sun\|Justin Sun]] | TRON 創辦人，指控 WLFI 代幣合約有後門可凍結資產，WLFI 宣布法律途徑 | people, crypto | 2026-04-13 |
+| [[wiki/fbi-crypto-report\|FBI 2025 加密詐欺報告]] | 2025 年加密詐欺損失 $113.66 億（年增 22%），AI + 加密組合詐騙 $6.59 億快速成長 | regulation, crypto | 2026-04-13 |
+| [[wiki/china-rare-earth\|中國稀土出口管制]] | Q2 精礦報價季漲 45%，出口管制收緊，中美資源戰升溫 | macro | 2026-04-13 |
+| [[wiki/ftx-alameda\|FTX / Alameda Research]] | 已破產清算，SOL 持倉陸續解除質押流回市場，構成中期賣壓 | crypto | 2026-04-13 |
+| [[wiki/bsc-meme\|BSC 中文 Meme 幣]] | 幣安人生帶頭 +35%，RAVE 被揭露莊家操控 20 倍後收割空頭 | crypto | 2026-04-13 |
 
 ## Raw Sources
 
@@ -82,3 +87,4 @@
 | 2026-04-10 | [[raw/2026/04/10]] |
 | 2026-04-11 | [[raw/2026/04/11]] |
 | 2026-04-12 | [[raw/2026/04/12]] |
+| 2026-04-13 | [[raw/2026/04/13]] |

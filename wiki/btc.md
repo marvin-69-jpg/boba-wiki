@@ -1,7 +1,7 @@
 ---
 aliases: [Bitcoin, 比特幣, BTC]
 first_seen: 2026-03-22
-last_updated: 2026-04-12
+last_updated: 2026-04-13
 tags: [crypto]
 ---
 
@@ -11,14 +11,15 @@ tags: [crypto]
 
 ## Current Status
 
-- 停火後突破 $72K，機構持續吸籌（BlackRock 接收 2,607 BTC + 28,391 ETH，ETF 連兩天大額淨流入）
-- Hash Ribbons 投降訊號 3/18 觸發（2012 年以來 100% 標記底部）
-- 但整體需求結構性偏弱：CryptoQuant 表觀需求負 6.3 萬枚，巨鯨持續派發
-- 恐懼貪婪指數長期極度恐慌（連續 50 天），3/30 曾低至 8（今年最低）
-- 3-4 月機構 vs 散戶方向分裂：散戶恐慌、機構逆勢買入
+- 報 $71,067（-0.9%），恐懼貪婪指數跌至 **12**（極度恐懼）
+- 美伊談判最終破裂引爆週一開盤：WTI 跳空 +10%，加密市場隨之承壓
+- Michael Saylor 發「Think ₿igger」暗示 Strategy 再度加碼（機構逆勢訊號）
+- 鏈上方向與情緒背離：波段巨鯨仍在掛賣單準備獲利了結，恐慌最深時大戶動作最值得留意
+- Hash Ribbons 投降訊號 3/18 觸發（2012 年以來 100% 標記底部），仍有效
 
 ## Key Events
 
+- **2026-04-13** — 報 $71,067（-0.9%），恐懼指數 12（極度恐懼）。美伊談判破裂 + 霍爾木茲封鎖今晚啟動，WTI 跳空 +10%。Saylor 發「Think ₿igger」暗示 Strategy 加碼。波段巨鯨同時掛 5,000 ETH 限價賣單。Source: [[raw/2026/04/13]]
 - **2026-04-12** — 衝上 $73,790 後因美伊談判破裂急跌至 $71,702（-1.77%）。合約巨鯨 2,567 BTC 空單止損虧 $499 萬。Source: [[raw/2026/04/12]]
 - **2026-04-12** — 獨行礦工用 70 TH/s 老礦機挖到區塊 #944,306，獲 3.128 BTC（$222K）。Source: [[raw/2026/04/12]]
 - **2026-04-11** — 報 $72,794（+1.1%），觸及 $73,255 週內高點。貝萊德從 Coinbase 提取 2,700 BTC（$1.97 億）。Source: [[raw/2026/04/11]]
@@ -44,4 +45,4 @@ tags: [crypto]
 
 ## Related
 
-[[btc-etf]] [[us-macro]] [[us-iran]] [[eth]] [[strategy]] [[stablecoins]] [[mara]] [[metaplanet]] [[blackrock]] [[schwab]]
+[[btc-etf]] [[us-macro]] [[us-iran]] [[eth]] [[strategy]] [[stablecoins]] [[mara]] [[metaplanet]] [[blackrock]] [[schwab]] [[ftx-alameda]] [[bsc-meme]]

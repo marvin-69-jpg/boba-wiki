@@ -2,6 +2,17 @@
 
 > Append-only record of all wiki operations.
 
+## [2026-04-13] ingest | BOBA Daily 4/13
+
+- **Created (5 pages)**:
+  - justin-sun.md, fbi-crypto-report.md, china-rare-earth.md, ftx-alameda.md, bsc-meme.md
+- **Updated (10 pages)**:
+  - btc.md, eth.md, us-iran.md, us-macro.md, trump-crypto.md
+  - strategy.md, anthropic.md, openai.md, solana.md, hyperliquid.md
+- **Contradictions resolved**: none
+- **Key narrative**: 美伊談判最終破裂 + 霍爾木茲封鎖今晚啟動（WTI +10%），Justin Sun 指控 WLFI 後門法律戰，FBI 2025 加密詐欺 $113.66 億新高，中國稀土 Q2 季漲 45% 資源戰升溫，BSC 中文 Meme 幣集體狂歡但 RAVE 莊家操控曝光，Claude Code epitaxy vs OpenAI Codex Scratchpad 開發工具正面交鋒
+- **New cross-links**: justin-sun ↔ trump-crypto, justin-sun ↔ sec, fbi-crypto-report ↔ sec, china-rare-earth ↔ us-macro, china-rare-earth ↔ us-iran, ftx-alameda ↔ solana, ftx-alameda ↔ hyperliquid, ftx-alameda ↔ btc, bsc-meme ↔ binance, bsc-meme ↔ btc
+
 ## [2026-04-12] ingest | BOBA Daily 03/22 ~ 03/28 (backfill)
 
 Backfill of 7 days of historical daily reports, predating the initial wiki bootstrap.

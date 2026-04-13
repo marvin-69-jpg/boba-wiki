@@ -32,4 +32,4 @@ tags: [regulation]
 
 ## Related
 
-[[trump-crypto]] [[cz]] [[stablecoins]] [[circle]] [[genius-act]] [[polymarket]] [[coinbase]] [[lummis]] [[missouri-btc-reserve]]
+[[trump-crypto]] [[cz]] [[stablecoins]] [[circle]] [[genius-act]] [[polymarket]] [[coinbase]] [[lummis]] [[missouri-btc-reserve]] [[fbi-crypto-report]] [[justin-sun]]

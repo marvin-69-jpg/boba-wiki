@@ -23,4 +23,4 @@ tags: [crypto]
 
 ## Related
 
-[[cz]] [[okx]] [[rwa]]
+[[cz]] [[okx]] [[rwa]] [[bsc-meme]]

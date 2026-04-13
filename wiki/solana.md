@@ -1,7 +1,7 @@
 ---
 aliases: [SOL, Solana]
 first_seen: 2026-03-25
-last_updated: 2026-04-12
+last_updated: 2026-04-13
 tags: [crypto]
 ---
 
@@ -18,6 +18,7 @@ tags: [crypto]
 
 ## Key Events
 
+- **2026-04-13** — FTX/Alameda 解除質押 198,426 SOL（$1,621 萬），老玩家清算資產持續流回市場，構成中期賣壓。Source: [[raw/2026/04/13]]
 - **2026-04-12** — Kamino RWA 借貸破 $10 億，在 SOL 季跌 36% 的背景下做到。Source: [[raw/2026/04/12]]
 - **2026-04-11** — Circle 過去一個月在 Solana 鑄造 105 億 USDC。Source: [[raw/2026/04/11]]
 - **2026-04-09** — VAT 系統讓驗證節點年成本從 $60K 降到 $1K，降 98%。Source: [[raw/2026/04/09]]
@@ -29,4 +30,4 @@ tags: [crypto]
 
 ## Related
 
-[[circle]] [[stablecoins]] [[rwa]] [[eth]] [[phantom]] [[drift]] [[aave]] [[coinbase]]
+[[circle]] [[stablecoins]] [[rwa]] [[eth]] [[phantom]] [[drift]] [[aave]] [[coinbase]] [[ftx-alameda]]

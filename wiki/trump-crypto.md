@@ -1,7 +1,7 @@
 ---
 aliases: [WLFI, World Liberty Financial, TRUMP coin, Trump 加密]
 first_seen: 2026-03-26
-last_updated: 2026-04-12
+last_updated: 2026-04-13
 tags: [crypto, regulation, people]
 ---
 
@@ -11,16 +11,16 @@ tags: [crypto, regulation, people]
 
 ## Current Status
 
+- **WLFI vs Justin Sun 法律戰**：孫宇晨指控 WLFI 代幣合約有後門可凍結持有者資產，WLFI 宣布採法律途徑（as of 2026-04-13）
+- **Chaos Labs 報告**：WLFI 在 Dolomite 的槓桿循環已接近上限，佔平台 TVL 的 **82.7%**，用途不明
+- **$TRUMP 鯨魚囤貨**：午餐會前，8DHkza 兩天從 Bybit 提 85 萬枚（$2.4M），7EtuAt 持 113 萬枚（$3.2M）
 - WLFI 每賺 $1 有 $0.75 流入家族實體
-- TRUMP meme coin 午宴排行榜活動延至 4/14
+- TRUMP meme coin 午宴排行榜活動延至 4/14（市場推測鯨魚囤貨動機）
 - 60 萬個錢包買 TRUMP coin 虧損 $38.7 億，家族收 $3.5 億手續費
-- Justin Sun 投 $7,500 萬後 SEC 撤案
-- CZ 獲特赦同週穩定幣上架
-- 戰略比特幣儲備行政命令直接增值總統資產
-- 美國參議員已公開質疑利益衝突
 
 ## Key Events
 
+- **2026-04-13** — Justin Sun 指控 WLFI 代幣合約有後門，WLFI 宣布法律途徑。$TRUMP 鯨魚大量囤貨（8DHkza 提 85 萬枚、7EtuAt 持 113 萬枚），市場推測為 Trump 午餐會。Chaos Labs：WLFI 在 Dolomite 槓桿循環佔 TVL 82.7%，接近上限。Source: [[raw/2026/04/13]]
 - **2026-04-12** — 瘋傳長文（6K 讚、2K 轉）以 WLFI「Web3 大使」第一人稱逐條拆解 Trump 家族加密利益結構。每段以「這些事件無關」反諷收尾。Source: [[raw/2026/04/12]]
 - **2026-04-10** — 參議員公開質疑 TRUMP 幣午宴。排行榜活動延 4 天到 4/14。Source: [[raw/2026/04/10]]
 - **2026-03-30** — TRUMP 團隊 BitGo 地址 2 小時向 OKX 充值 548 萬枚 TRUMP。團隊份額 2 個月從 $8,164 萬縮水至 $1,606 萬（-80%）。Fox News 不滿意率 59%（兩任期最高）。Polymarket 民主黨 2026 中期橫掃概率 49%。Source: [[raw/2026/03/30]]
@@ -29,4 +29,4 @@ tags: [crypto, regulation, people]
 
 ## Related
 
-[[sec]] [[cz]] [[btc]] [[stablecoins]]
+[[sec]] [[cz]] [[btc]] [[stablecoins]] [[justin-sun]]

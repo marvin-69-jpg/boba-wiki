@@ -1,7 +1,7 @@
 ---
 aliases: [Strategy, MicroStrategy, Saylor, STRC]
 first_seen: 2026-03-24
-last_updated: 2026-04-09
+last_updated: 2026-04-13
 tags: [crypto]
 ---
 
@@ -17,6 +17,7 @@ Michael Saylor 領導的比特幣企業持有者。持續大量買入 BTC。
 
 ## Key Events
 
+- **2026-04-13** — Saylor 發文「Think ₿igger」，市場解讀為 Strategy 即將再度加碼 BTC 的暗示。恐懼指數 12，鏈上機構逆勢訊號。Source: [[raw/2026/04/13]]
 - **2026-04-09** — 透過 STRC 估計買入 2,645 BTC，接近當日全網挖礦產出的 6 倍。Source: [[raw/2026/04/09]]
 - **2026-04-06** — 上週買 22,337 BTC（全球日挖礦量 1.2 倍）。3 月淨買 29,590 枚，同期全網只挖 13,950 枚。Source: [[raw/2026/04/06]]
 - **2026-04-04** — 透過 STRC 一週買 22,337 BTC。Riot 反向賣 $2.9 億。Source: [[raw/2026/04/04]]
