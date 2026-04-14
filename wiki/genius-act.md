@@ -1,7 +1,7 @@
 ---
 aliases: [GENIUS Act, 穩定幣法案]
 first_seen: 2026-04-02
-last_updated: 2026-04-08
+last_updated: 2026-04-14
 tags: [regulation]
 ---
 
@@ -11,12 +11,14 @@ tags: [regulation]
 
 ## Current Status
 
+- 白宮加密顧問透露**穩定幣收益（yield）是法案的關鍵瓶頸**，妥協方案正在成形（as of 2026-04-14）
 - FDIC 已核准 GENIUS Act 穩定幣實施標準
 - SEC 主席 Atkins 宣布 "Reg Crypto" 草案已送白宮 OIRA 審查
-- 60 天公眾意見徵集期進行中
 - 發行商資產低於 $10B 可選擇州級監管（需「實質相似」於聯邦框架）
 
 ## Key Events
+
+**2026-04-14** — 白宮加密顧問透露穩定幣收益（yield）是法案的關鍵瓶頸，妥協方案正在成形。Source: [[raw/2026/04/14]]
 
 **2026-04-08** — FDIC 核准 GENIUS Act 穩定幣實施標準。SEC 主席 Atkins 宣布 "Reg Crypto" 草案已送白宮 OIRA 審查。Source: [[raw/2026/04/08]]
 

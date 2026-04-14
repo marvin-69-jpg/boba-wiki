@@ -1,22 +1,23 @@
 ---
 aliases: [OpenAI, Sam Altman, GPT]
 first_seen: 2026-03-22
-last_updated: 2026-04-13
+last_updated: 2026-04-14
 tags: [tech]
 ---
 
 # OpenAI
 
-AI 公司，GPT 系列開發者。CEO Sam Altman 近期住所遭燃燒瓶攻擊，Stargate 計劃主管離職。
+AI 公司，GPT 系列開發者。CEO Sam Altman 近期住所遭燃燒瓶攻擊，嫌犯已落網，供稱動機是「想阻止人類因 AI 而滅絕」。
 
 ## Current Status
 
-- Sam Altman 舊金山住所遭 20 歲男子投擲燃燒瓶，無人受傷，嫌犯已逮捕
+- 4/11 燃燒瓶攻擊嫌犯 4/14 落網，供稱「想殺 Altman、阻止人類因 AI 而滅絕」（CNBC 報導）
 - Stargate 數據中心計劃主管 Peter Hoeschele 已離職
-- AI 能力帶來的社會張力持續升高
+- AI 能力帶來的社會張力持續升高，針對 AI 領導人的極端行動已現實化
 
 ## Key Events
 
+- **2026-04-14** — 4/11 燃燒瓶攻擊嫌犯落網。CNBC 報導嫌犯供稱動機是「想殺 Altman、阻止人類因 AI 而滅絕」。Source: [[raw/2026/04/14]]
 - **2026-04-13** — 測試 Codex 新功能「Scratchpad」：可從 TODO 列表同時啟動多個 chat 並行執行。與 Anthropic Claude Code epitaxy 同期推出，AI 輔助開發賽道正面交鋒。Source: [[raw/2026/04/13]]
 - **2026-04-11** — Sam Altman 住所遭燃燒瓶攻擊，嫌犯又到 OpenAI 總部外威脅，已被逮捕。Source: [[raw/2026/04/11]]
 - **2026-04-10** — Stargate 數據中心計劃主管 Peter Hoeschele 離職。Source: [[raw/2026/04/10]]

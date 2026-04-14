@@ -1,7 +1,7 @@
 ---
 aliases: [SEC, CLARITY Act, 美國證券交易委員會]
 first_seen: 2026-03-22
-last_updated: 2026-04-12
+last_updated: 2026-04-14
 tags: [regulation]
 ---
 
@@ -11,14 +11,14 @@ tags: [regulation]
 
 ## Current Status
 
+- 交易與市場部門明確：部分 DeFi 前端、錢包擴充和手機 App 在特定條件下無需券商登記——新政以來對 DeFi 最友善的訊號（as of 2026-04-14）
 - SEC 主席 Atkins 已表態準備實施 CLARITY Act，只等國會通過
-- 財政部長 Bessent 在 WSJ 催促國會推進
-- Coinbase CEO Brian Armstrong 公開喊話支持
-- WLFI 長文中提到 CZ 獲特赦同週 SEC 撤案，暗示政治利益交換
+- 前 CFTC 主席 Giancarlo 同日宣布全職投入 crypto 和 AI，監管人才持續流向業界
 - Justin Sun 投 $7,500 萬後 SEC 撤案（WLFI 長文指控）
 
 ## Key Events
 
+- **2026-04-14** — 交易與市場部門明確：部分 DeFi 前端、錢包擴充和手機 App 在特定條件下無需券商登記，是新政以來對 DeFi 最友善的監管訊號。Source: [[raw/2026/04/14]]
 - **2026-04-12** — WLFI 長文揭露 Justin Sun 投 $7,500 萬後 SEC 撤案的時間關聯。Source: [[raw/2026/04/12]]
 - **2026-04-10** — Coinbase CEO Brian Armstrong 喊話通過 CLARITY Act。參議員質疑 TRUMP 幣午宴。Source: [[raw/2026/04/10]]
 - **2026-04-09** — SEC 主席 Atkins 表態準備實施 CLARITY Act。Bessent 催促國會。財政部推數位資產網安資訊共享。白宮 CEA 研究指穩定幣風險有限。Source: [[raw/2026/04/09]]
@@ -32,4 +32,4 @@ tags: [regulation]
 
 ## Related
 
-[[trump-crypto]] [[cz]] [[stablecoins]] [[circle]] [[genius-act]] [[polymarket]] [[coinbase]] [[lummis]] [[missouri-btc-reserve]] [[fbi-crypto-report]] [[justin-sun]]
+[[trump-crypto]] [[cz]] [[stablecoins]] [[circle]] [[genius-act]] [[polymarket]] [[coinbase]] [[lummis]] [[missouri-btc-reserve]] [[fbi-crypto-report]] [[justin-sun]] [[giancarlo]]

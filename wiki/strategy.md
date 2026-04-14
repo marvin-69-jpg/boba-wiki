@@ -1,7 +1,7 @@
 ---
 aliases: [Strategy, MicroStrategy, Saylor, STRC]
 first_seen: 2026-03-24
-last_updated: 2026-04-13
+last_updated: 2026-04-14
 tags: [crypto]
 ---
 
@@ -11,12 +11,13 @@ Michael Saylor 領導的比特幣企業持有者。持續大量買入 BTC。
 
 ## Current Status
 
-- 透過 STRC 持續大量吸籌，3 月淨買 29,590 BTC（同期全網僅挖 13,950 枚）
-- 持有 762,099+ BTC
-- 浮虧中但買入速度未減
+- 總持倉 **780,897 BTC（$553 億）**，4/6-4/12 以均價 $71,902 買入 13,927 BTC（as of 2026-04-14）
+- 目前浮虧 6.22%
+- TD Securities 正式將此類「上市比特幣國庫公司（PBTCs）」列為獨立可投資資產類別，Strategy 是代表
 
 ## Key Events
 
+- **2026-04-14** — 披露 4/6-4/12 以均價 $71,902 買入 13,927 BTC（花費約 $10 億），總持倉 780,897 BTC（$553 億），浮虧 6.22%。恐慌期間機構逆勢重倉。TD Securities 同日將此類 PBTCs 列為獨立可投資資產類別。Source: [[raw/2026/04/14]]
 - **2026-04-13** — Saylor 發文「Think ₿igger」，市場解讀為 Strategy 即將再度加碼 BTC 的暗示。恐懼指數 12，鏈上機構逆勢訊號。Source: [[raw/2026/04/13]]
 - **2026-04-09** — 透過 STRC 估計買入 2,645 BTC，接近當日全網挖礦產出的 6 倍。Source: [[raw/2026/04/09]]
 - **2026-04-06** — 上週買 22,337 BTC（全球日挖礦量 1.2 倍）。3 月淨買 29,590 枚，同期全網只挖 13,950 枚。Source: [[raw/2026/04/06]]
@@ -28,4 +29,4 @@ Michael Saylor 領導的比特幣企業持有者。持續大量買入 BTC。
 
 ## Related
 
-[[btc]] [[btc-etf]] [[mara]] [[bitfarms]] [[metaplanet]]
+[[btc]] [[btc-etf]] [[mara]] [[bitfarms]] [[metaplanet]] [[td-securities]]

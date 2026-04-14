@@ -2,6 +2,19 @@
 
 > Append-only record of all wiki operations.
 
+## [2026-04-14] ingest | BOBA Daily 4/14
+
+- **Created (6 pages)**:
+  - hyperbridge.md, kraken.md, giancarlo.md, morpho.md, apollo.md, td-securities.md
+- **Updated (14 pages)**:
+  - btc.md, eth.md, btc-etf.md, us-iran.md, us-macro.md, strategy.md
+  - bitmine.md, blackrock.md, sec.md, genius-act.md, aave.md
+  - anthropic.md, openai.md, morgan-stanley.md
+- **Contradictions resolved**:
+  - us-iran.md：4/13 記錄「談判破裂 + 霍爾木茲封鎖啟動」，4/14 Vance 突然稱「大量進展」，24 小時內局勢逆轉。Current Status 更新為最新，舊狀態保留在 Key Events，並加⚠️標注急速逆轉
+- **Key narrative**: BTC $74,379（+5%）+ ETH 突破 $2,250，美伊談判意外轉機（Vance「大量進展」），油價從 +10% 急跌破 $100；機構瘋搶（Strategy 週買 $10 億、BitMine 周買 $1.56 億 ETH、BlackRock 再提 BTC）；Hyperbridge $12 億假幣只換 $23.7 萬（流動性鎖死出金）；Aave DAO 收入 100% 歸庫、Apollo $1.125 億押注 MORPHO；SEC 放行 DeFi 前端登記豁免；Altman 攻擊嫌犯落網；Anthropic 就 Mythos 與美政府正式對談
+- **New cross-links**: hyperbridge ↔ eth, hyperbridge ↔ kraken, giancarlo ↔ sec, morpho ↔ aave, morpho ↔ apollo, morpho ↔ eth, apollo ↔ aave, apollo ↔ blackrock, apollo ↔ franklin-templeton, td-securities ↔ strategy, td-securities ↔ btc, td-securities ↔ morgan-stanley, strategy ↔ bitmine（共同機構逆勢加碼）
+
 ## [2026-04-13] ingest | BOBA Daily 4/13
 
 - **Created (5 pages)**:

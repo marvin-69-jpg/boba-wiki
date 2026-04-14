@@ -1,7 +1,7 @@
 ---
 aliases: [Bitcoin, 比特幣, BTC]
 first_seen: 2026-03-22
-last_updated: 2026-04-13
+last_updated: 2026-04-14
 tags: [crypto]
 ---
 
@@ -11,14 +11,16 @@ tags: [crypto]
 
 ## Current Status
 
-- 報 $71,067（-0.9%），恐懼貪婪指數跌至 **12**（極度恐懼）
-- 美伊談判最終破裂引爆週一開盤：WTI 跳空 +10%，加密市場隨之承壓
-- Michael Saylor 發「Think ₿igger」暗示 Strategy 再度加碼（機構逆勢訊號）
-- 鏈上方向與情緒背離：波段巨鯨仍在掛賣單準備獲利了結，恐慌最深時大戶動作最值得留意
+- 報 $74,379（+5% 24h），短時觸及 $74,900（as of 2026-04-14）
+- 美伊談判意外出現轉機，Vance 稱「大量進展」帶動風險情緒回暖
+- 60 分鐘內 $1.75 億空單被清算，BTC ETF 上週單日淨流入 +3,353 BTC（$2.4 億）
+- S&P 500 已收復伊朗開戰以來全部跌幅，多資產同步反彈
+- Strategy 4/6-4/12 加碼 13,927 BTC（均價 $71,902），總持倉達 780,897 BTC（$553 億）
 - Hash Ribbons 投降訊號 3/18 觸發（2012 年以來 100% 標記底部），仍有效
 
 ## Key Events
 
+- **2026-04-14** — 短時觸及 $74,900，回穩 $74,379（+5% 24h）。美伊談判意外轉機，Vance 稱「大量進展」帶動風險情緒回暖，60 分鐘內 $1.75 億空單清算。ETF 上週單日淨流入 +3,353 BTC（$2.4 億）。S&P 500 收復伊朗開戰以來全部跌幅。Source: [[raw/2026/04/14]]
 - **2026-04-13** — 報 $71,067（-0.9%），恐懼指數 12（極度恐懼）。美伊談判破裂 + 霍爾木茲封鎖今晚啟動，WTI 跳空 +10%。Saylor 發「Think ₿igger」暗示 Strategy 加碼。波段巨鯨同時掛 5,000 ETH 限價賣單。Source: [[raw/2026/04/13]]
 - **2026-04-12** — 衝上 $73,790 後因美伊談判破裂急跌至 $71,702（-1.77%）。合約巨鯨 2,567 BTC 空單止損虧 $499 萬。Source: [[raw/2026/04/12]]
 - **2026-04-12** — 獨行礦工用 70 TH/s 老礦機挖到區塊 #944,306，獲 3.128 BTC（$222K）。Source: [[raw/2026/04/12]]
@@ -45,4 +47,4 @@ tags: [crypto]
 
 ## Related
 
-[[btc-etf]] [[us-macro]] [[us-iran]] [[eth]] [[strategy]] [[stablecoins]] [[mara]] [[metaplanet]] [[blackrock]] [[schwab]] [[ftx-alameda]] [[bsc-meme]]
+[[btc-etf]] [[us-macro]] [[us-iran]] [[eth]] [[strategy]] [[stablecoins]] [[mara]] [[metaplanet]] [[blackrock]] [[schwab]] [[ftx-alameda]] [[bsc-meme]] [[td-securities]]

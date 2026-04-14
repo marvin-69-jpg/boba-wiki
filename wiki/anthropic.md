@@ -1,24 +1,25 @@
 ---
 aliases: [Anthropic, Claude]
 first_seen: 2026-03-22
-last_updated: 2026-04-13
+last_updated: 2026-04-14
 tags: [tech]
 ---
 
 # Anthropic
 
-AI 公司，Claude 系列模型開發者。近期因 Claude Mythos 的漏洞挖掘能力引發安全討論，同時探索自研晶片。
+AI 公司，Claude 系列模型開發者。近期因 Claude Mythos 的漏洞挖掘能力引發安全討論，並正式與美國政府就安全問題展開討論。
 
 ## Current Status
 
+- 聯合創辦人正與美國政府就 **Claude Mythos** 安全問題展開討論（as of 2026-04-14）
 - ARR 突破 $300 億（Claude Code + Claude 4.6 Opus 需求爆炸）
 - 博通供 TPU 替代 NVIDIA
 - 封殺 OpenClaw 收緊生態控制
-- Claude Mythos 模型能挖掘並利用數千個數十年老軟體漏洞，引發華爾街與白宮關注
-- Cloudflare 因相關消息四天跌 22%
+- Claude Mythos 能挖掘數千個數十年老漏洞，引發華爾街、白宮與現在的聯邦政府關注
 
 ## Key Events
 
+- **2026-04-14** — 聯合創辦人透露正與美國政府就旗下最新模型 Mythos 的安全問題展開正式討論。Source: [[raw/2026/04/14]]
 - **2026-04-13** — 即將推出 Claude Code「epitaxy」新體驗：支援多 repo 同時操作、Cowork-style 佈局，對開發者是大升級。同期 OpenAI 也在測試 Codex Scratchpad，AI 輔助開發賽道正面交鋒。Source: [[raw/2026/04/13]]
 - **2026-04-11** — 白宮協調應對 Anthropic 等即將推出的 AI 模型網安風險。Claude Mythos 讓 Cloudflare 四天跌 22%。Source: [[raw/2026/04/11]]
 - **2026-04-10** — 最新 AI 模型偵測到數千個數十年老漏洞，Bessent 緊急召集華爾街 CEO 討論應對。Source: [[raw/2026/04/10]]
