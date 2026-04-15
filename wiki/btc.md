@@ -1,7 +1,7 @@
 ---
 aliases: [Bitcoin, 比特幣, BTC]
 first_seen: 2026-03-22
-last_updated: 2026-04-14
+last_updated: 2026-04-15
 tags: [crypto]
 ---
 
@@ -11,15 +11,16 @@ tags: [crypto]
 
 ## Current Status
 
-- 報 $74,379（+5% 24h），短時觸及 $74,900（as of 2026-04-14）
-- 美伊談判意外出現轉機，Vance 稱「大量進展」帶動風險情緒回暖
-- 60 分鐘內 $1.75 億空單被清算，BTC ETF 上週單日淨流入 +3,353 BTC（$2.4 億）
-- S&P 500 已收復伊朗開戰以來全部跌幅，多資產同步反彈
-- Strategy 4/6-4/12 加碼 13,927 BTC（均價 $71,902），總持倉達 780,897 BTC（$553 億）
+- 突破 $76,120 創兩個月新高，報 $74,489（+5% 24h）（as of 2026-04-15）
+- Trump 宣稱美伊戰事「接近結束」帶動風險情緒進一步回暖
+- Matrixport 在高點平倉 1,150 BTC + 95,000 ETH 多單，落袋 $4,819 萬（逢高鎖利信號）
+- BTC ETF 昨日淨流出 3,539 BTC（$2.66 億），但 7 日仍淨流入 +508 BTC（機構仍在吸籌）
+- Polymarket：BTC 年底破 $80K 機率升至 80%
 - Hash Ribbons 投降訊號 3/18 觸發（2012 年以來 100% 標記底部），仍有效
 
 ## Key Events
 
+- **2026-04-15** — 突破 $76,120 創兩個月新高，報 $74,489（+5%）。Trump 稱美伊「接近結束」帶動多資產同步走高。Matrixport 高點平倉 1,150 BTC + 95,000 ETH（$4,819 萬），鏈上資金費率全面負值（空頭未認輸）。BTC ETF 昨日淨流出 3,539 BTC（$2.66 億），7 日仍淨流入 +508 BTC。Polymarket BTC $80K 年底機率 80%。Source: [[raw/2026/04/15]]
 - **2026-04-14** — 短時觸及 $74,900，回穩 $74,379（+5% 24h）。美伊談判意外轉機，Vance 稱「大量進展」帶動風險情緒回暖，60 分鐘內 $1.75 億空單清算。ETF 上週單日淨流入 +3,353 BTC（$2.4 億）。S&P 500 收復伊朗開戰以來全部跌幅。Source: [[raw/2026/04/14]]
 - **2026-04-13** — 報 $71,067（-0.9%），恐懼指數 12（極度恐懼）。美伊談判破裂 + 霍爾木茲封鎖今晚啟動，WTI 跳空 +10%。Saylor 發「Think ₿igger」暗示 Strategy 加碼。波段巨鯨同時掛 5,000 ETH 限價賣單。Source: [[raw/2026/04/13]]
 - **2026-04-12** — 衝上 $73,790 後因美伊談判破裂急跌至 $71,702（-1.77%）。合約巨鯨 2,567 BTC 空單止損虧 $499 萬。Source: [[raw/2026/04/12]]
@@ -47,4 +48,4 @@ tags: [crypto]
 
 ## Related
 
-[[btc-etf]] [[us-macro]] [[us-iran]] [[eth]] [[strategy]] [[stablecoins]] [[mara]] [[metaplanet]] [[blackrock]] [[schwab]] [[ftx-alameda]] [[bsc-meme]] [[td-securities]]
+[[btc-etf]] [[us-macro]] [[us-iran]] [[eth]] [[strategy]] [[stablecoins]] [[mara]] [[metaplanet]] [[blackrock]] [[schwab]] [[ftx-alameda]] [[bsc-meme]] [[td-securities]] [[matrixport]] [[polymarket]]

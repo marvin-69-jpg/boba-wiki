@@ -1,7 +1,7 @@
 ---
 aliases: [Polymarket]
 first_seen: 2026-03-24
-last_updated: 2026-04-08
+last_updated: 2026-04-15
 tags: [crypto, defi]
 ---
 
@@ -11,6 +11,7 @@ tags: [crypto, defi]
 
 ## Current Status
 
+- **BTC 年底破 $80K 機率升至 80%**（as of 2026-04-15），隨 BTC 突破 $76K 同步上調
 - 已推出 Polymarket USD（原生穩定幣，取代橋接 USDC）
 - Fee V2 上線，日手續費 ~$200 萬
 - 新增股票 / 黃金 / 石油投注（透過 Pyth）
@@ -18,6 +19,8 @@ tags: [crypto, defi]
 - 內線交易疑雲：停火前數小時 4 新錢包精準押注獲利 $66.3 萬
 
 ## Key Events
+
+- **2026-04-15** — BTC 年底破 $80K 機率升至 80%，BTC 突破 $76,120 帶動預測市場看多情緒升溫。Source: [[raw/2026/04/15]]
 
 **2026-04-08** — 停火宣布前數小時，4 個新錢包押注停火並獲利 $66.3 萬，引發內線交易質疑。Source: [[raw/2026/04/08]]
 
@@ -41,4 +44,4 @@ tags: [crypto, defi]
 
 ## Related
 
-[[stablecoins]] [[us-iran]] [[sec]]
+[[stablecoins]] [[us-iran]] [[sec]] [[btc]]

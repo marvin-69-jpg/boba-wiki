@@ -1,7 +1,7 @@
 ---
 aliases: [SOL, Solana]
 first_seen: 2026-03-25
-last_updated: 2026-04-13
+last_updated: 2026-04-15
 tags: [crypto]
 ---
 
@@ -11,6 +11,7 @@ tags: [crypto]
 
 ## Current Status
 
+- Fed 主席候選人 **Kevin Warsh** 財務披露持有 Solana 基礎設施的早期投資（as of 2026-04-15）
 - SOL 季跌 36%，但生態基本面持續強化
 - Kamino 在 Solana 上的 RWA 借貸突破 $10 億，佔 DeFi 全體 RWA 存款 52%
 - Circle 過去一個月在 Solana 鑄造 105 億 USDC
@@ -18,6 +19,7 @@ tags: [crypto]
 
 ## Key Events
 
+- **2026-04-15** — Fed 主席熱門候選人 Kevin Warsh 財務披露文件確認持有 Solana 基礎設施的早期投資。下一任可能掌管美元政策的人已是 Solana 生態的早期 LP。Source: [[raw/2026/04/15]]
 - **2026-04-13** — FTX/Alameda 解除質押 198,426 SOL（$1,621 萬），老玩家清算資產持續流回市場，構成中期賣壓。Source: [[raw/2026/04/13]]
 - **2026-04-12** — Kamino RWA 借貸破 $10 億，在 SOL 季跌 36% 的背景下做到。Source: [[raw/2026/04/12]]
 - **2026-04-11** — Circle 過去一個月在 Solana 鑄造 105 億 USDC。Source: [[raw/2026/04/11]]
@@ -30,4 +32,4 @@ tags: [crypto]
 
 ## Related
 
-[[circle]] [[stablecoins]] [[rwa]] [[eth]] [[phantom]] [[drift]] [[aave]] [[coinbase]] [[ftx-alameda]]
+[[circle]] [[stablecoins]] [[rwa]] [[eth]] [[phantom]] [[drift]] [[aave]] [[coinbase]] [[ftx-alameda]] [[kevin-warsh]]
