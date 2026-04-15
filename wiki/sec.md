@@ -1,7 +1,7 @@
 ---
 aliases: [SEC, CLARITY Act, 美國證券交易委員會]
 first_seen: 2026-03-22
-last_updated: 2026-04-14
+last_updated: 2026-04-15
 tags: [regulation]
 ---
 
@@ -11,13 +11,16 @@ tags: [regulation]
 
 ## Current Status
 
-- 交易與市場部門明確：部分 DeFi 前端、錢包擴充和手機 App 在特定條件下無需券商登記——新政以來對 DeFi 最友善的訊號（as of 2026-04-14）
+- 正式批准廢除 **Pattern Day Trader 規則**——散戶無需帳戶 $25,000 即可頻繁交易（as of 2026-04-15，對美股和 crypto 均是利多）
+- 交易與市場部門明確：部分 DeFi 前端、錢包擴充和手機 App 在特定條件下無需券商登記（as of 2026-04-14）
 - SEC 主席 Atkins 已表態準備實施 CLARITY Act，只等國會通過
 - 前 CFTC 主席 Giancarlo 同日宣布全職投入 crypto 和 AI，監管人才持續流向業界
 - Justin Sun 投 $7,500 萬後 SEC 撤案（WLFI 長文指控）
+- Kraken 已秘密向 SEC 提交 IPO 申請（4/15）
 
 ## Key Events
 
+- **2026-04-15** — 正式批准廢除 Pattern Day Trader 規則（$25K 最低帳戶門檻），散戶可頻繁交易，對美股和加密市場均為利多。Kraken 確認已秘密向 SEC 提交 IPO 申請。Source: [[raw/2026/04/15]]
 - **2026-04-14** — 交易與市場部門明確：部分 DeFi 前端、錢包擴充和手機 App 在特定條件下無需券商登記，是新政以來對 DeFi 最友善的監管訊號。Source: [[raw/2026/04/14]]
 - **2026-04-12** — WLFI 長文揭露 Justin Sun 投 $7,500 萬後 SEC 撤案的時間關聯。Source: [[raw/2026/04/12]]
 - **2026-04-10** — Coinbase CEO Brian Armstrong 喊話通過 CLARITY Act。參議員質疑 TRUMP 幣午宴。Source: [[raw/2026/04/10]]
@@ -32,4 +35,4 @@ tags: [regulation]
 
 ## Related
 
-[[trump-crypto]] [[cz]] [[stablecoins]] [[circle]] [[genius-act]] [[polymarket]] [[coinbase]] [[lummis]] [[missouri-btc-reserve]] [[fbi-crypto-report]] [[justin-sun]] [[giancarlo]]
+[[trump-crypto]] [[cz]] [[stablecoins]] [[circle]] [[genius-act]] [[polymarket]] [[coinbase]] [[lummis]] [[missouri-btc-reserve]] [[fbi-crypto-report]] [[justin-sun]] [[giancarlo]] [[us-macro]] [[kraken]]

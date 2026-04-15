@@ -1,17 +1,18 @@
 ---
 aliases: [Bitcoin ETF, BTC ETF, 比特幣 ETF]
 first_seen: 2026-03-22
-last_updated: 2026-04-14
+last_updated: 2026-04-15
 tags: [crypto, defi]
 ---
 
 # BTC ETF
 
-比特幣現貨 ETF，機構資金進入加密市場的主要渠道。資金流向是判斷機構態度的核心指標。
+比特幣現貨及策略型 ETF，機構資金進入加密市場的主要渠道。資金流向是判斷機構態度的核心指標。
 
 ## Current Status
 
-- 上週單日淨流入 +3,353 BTC（$2.4 億），恐慌中機構持續吸籌（as of 2026-04-14）
+- 昨日淨流出 3,539 BTC（$2.66 億），但 7 日仍淨流入 +508 BTC（as of 2026-04-15）
+- **Goldman Sachs** 正式申請 Bitcoin Premium Income ETF（covered call 策略型）——繼 BlackRock/Morgan Stanley 後第三家頂尖 TradFi 巨頭
 - Morgan Stanley $MSBT 已上線（2026-04-08），費率最低可能引爆費率戰
 - 16,000 名 MS 理財顧問管理 $7.4 兆資產，現可推薦 BTC 產品
 - Canary 已申請 PEPE ETF，meme 幣也在叩關傳統金融
@@ -19,6 +20,7 @@ tags: [crypto, defi]
 
 ## Key Events
 
+- **2026-04-15** — 昨日淨流出 3,539 BTC（$2.66 億），但 7 日整體仍淨流入 +508 BTC，機構逢高短暫兌現但中期方向未變。Goldman Sachs 正式申請 Bitcoin Premium Income ETF（covered call 策略），AUM $3.5 兆的高盛品牌掛上 BTC 是最大信號。Source: [[raw/2026/04/15]]
 - **2026-04-14** — 上週單日淨流入 +3,353 BTC（$2.4 億），機構在恐慌最深時反手加碼。Source: [[raw/2026/04/14]]
 - **2026-04-11** — Bitwise 申請 Hyperliquid ETF（$BHYP），費率 67bps，史上第一個去中心化衍生品交易所 ETF。Source: [[raw/2026/04/11]]
 - **2026-04-10** — BTC ETF 單日淨流入 $3.58 億大翻正，機構在散戶最恐慌時反手加碼。ETH ETF 也淨流入 $8,520 萬。Source: [[raw/2026/04/10]]
@@ -34,4 +36,4 @@ tags: [crypto, defi]
 
 ## Related
 
-[[btc]] [[eth]] [[morgan-stanley]] [[hyperliquid]] [[sec]] [[schwab]] [[blackrock]] [[franklin-templeton]]
+[[btc]] [[eth]] [[morgan-stanley]] [[hyperliquid]] [[sec]] [[schwab]] [[blackrock]] [[franklin-templeton]] [[goldman-sachs]]
