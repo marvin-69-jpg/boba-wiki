@@ -69,3 +69,15 @@ First ingest — batch processing 4 days of daily reports to bootstrap the wiki.
 - **Cross-links established**: 60+ bidirectional wiki-links across all pages
 - **Contradictions**: none (bootstrap, no prior state)
 - **Notes**: entities with only 1 mention still got pages if they had enough substance for a standalone entry
+
+## [2026-04-15] ingest | BOBA Daily 4/15
+
+- **Created (6 pages)**:
+  - goldman-sachs.md, kevin-warsh.md, jpmorgan.md, x-twitter.md, nvidia.md, matrixport.md
+- **Updated (13 pages)**:
+  - btc.md, eth.md, btc-etf.md, us-iran.md, us-macro.md
+  - kraken.md, anthropic.md, openai.md, sec.md, circle.md
+  - stablecoins.md, polymarket.md, solana.md
+- **Contradictions resolved**: none
+- **Key narrative**: BTC 突破 $76,120 兩個月新高，S&P 空頭回補 +$6 兆，Goldman Sachs 申請 Bitcoin Premium Income ETF，Kraken 秘密向 SEC 提交 IPO，Deutsche Börse $2 億入股估值 $133 億，SEC 廢除 Pattern Day Trader $25K 規則，Fed 候選人 Kevin Warsh 披露持有 crypto 投資，JPMorgan CFO 警告穩定幣成「監管套利」工具，X 上線 Cashtags 跨入金融服務，Anthropic 備 Opus 4.7，NVIDIA 推量子 AI Ising，Goolsbee 警告降息推遲至 2027
+- **New cross-links**: goldman-sachs ↔ btc-etf, goldman-sachs ↔ btc, goldman-sachs ↔ blackrock, goldman-sachs ↔ morgan-stanley, kevin-warsh ↔ us-macro, kevin-warsh ↔ solana, jpmorgan ↔ stablecoins, jpmorgan ↔ us-macro, matrixport ↔ btc, matrixport ↔ eth, nvidia ↔ anthropic, nvidia ↔ openai, x-twitter ↔ btc, polymarket ↔ btc, sec ↔ us-macro, sec ↔ kraken
