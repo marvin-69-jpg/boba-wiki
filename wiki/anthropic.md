@@ -1,26 +1,25 @@
 ---
-aliases: [Anthropic, Claude]
+aliases: [Anthropic, Claude, Mythos]
 first_seen: 2026-03-22
-last_updated: 2026-04-15
+last_updated: 2026-04-17
 tags: [tech]
 ---
 
 # Anthropic
 
-AI 公司，Claude 系列模型開發者。近期因 Claude Mythos 的漏洞挖掘能力引發安全討論，並正式與美國政府就安全問題展開討論。
+AI 公司，Claude 系列模型開發者。旗下 Mythos 模型引發廣泛安全討論——從白宮到聯邦政府，再到多國財政部長和銀行家，各方均表達嚴重關切。
 
 ## Current Status
 
-- **Opus 4.7** 和 **AI 設計工具**最快本週發布（as of 2026-04-15，The Information 報導）
-- 預 IPO 在 **Jupiter** 上的隱含市值飆到 **$8,510 億**
-- 聯合創辦人正與美國政府就 **Claude Mythos** 安全問題展開討論（as of 2026-04-14）
+- **多國財政部長和銀行家對 Mythos 模型「表達嚴重擔憂」**（BBC 報導，as of 2026-04-17）
+- Opus 4.7 和 AI 設計工具備妥發布（as of 2026-04-15）
+- 預 IPO 在 **Jupiter** 上的隱含市值 **$8,510 億**
 - ARR 突破 $300 億（Claude Code + Claude 4.6 Opus 需求爆炸）
-- 博通供 TPU 替代 NVIDIA
-- 封殺 OpenClaw 收緊生態控制
-- Claude Mythos 能挖掘數千個數十年老漏洞，引發華爾街、白宮與聯邦政府關注
+- Claude Mythos 網路安全能力「遠超任何現有 AI」，已進入金融、政府、國際監管雷達
 
 ## Key Events
 
+- **2026-04-17** — BBC 報導多國財政部長和銀行家對 Anthropic 的 Mythos 模型「表達嚴重擔憂」。量子加速（NVIDIA Ising）、AI 能力擴張（Anthropic/OpenAI）、監管追趕——三股力量同時拉扯。Source: [[raw/2026/04/17]]
 - **2026-04-15** — The Information 報導正準備推出 Opus 4.7 模型和 AI 設計工具，最快本週發布。Jupiter 上預 IPO 隱含市值飆至 $8,510 億。同日 NVIDIA 推量子 AI「Ising」，OpenAI 推安全防禦 AI——三巨頭分賽道加速。Source: [[raw/2026/04/15]]
 - **2026-04-14** — 聯合創辦人透露正與美國政府就旗下最新模型 Mythos 的安全問題展開正式討論。Source: [[raw/2026/04/14]]
 - **2026-04-13** — 即將推出 Claude Code「epitaxy」新體驗：支援多 repo 同時操作、Cowork-style 佈局，對開發者是大升級。同期 OpenAI 也在測試 Codex Scratchpad，AI 輔助開發賽道正面交鋒。Source: [[raw/2026/04/13]]

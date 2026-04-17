@@ -1,23 +1,23 @@
 ---
 aliases: [OpenAI, Sam Altman, GPT]
 first_seen: 2026-03-22
-last_updated: 2026-04-15
+last_updated: 2026-04-17
 tags: [tech]
 ---
 
 # OpenAI
 
-AI 公司，GPT 系列開發者。CEO Sam Altman 近期住所遭燃燒瓶攻擊，嫌犯已落網，供稱動機是「想阻止人類因 AI 而滅絕」。
+AI 公司，GPT 系列開發者。CEO Sam Altman 近期住所遭燃燒瓶攻擊，嫌犯已落網。持續擴展 AI 應用邊界，進入藥物發現領域。
 
 ## Current Status
 
-- 向有限用戶釋出**網路安全專用 AI 模型**（as of 2026-04-15，繼 Mythos 引爆安全討論後）
-- 4/11 燃燒瓶攻擊嫌犯 4/14 落網，供稱「想殺 Altman、阻止人類因 AI 而滅絕」（CNBC 報導）
-- Stargate 數據中心計劃主管 Peter Hoeschele 已離職
-- AI 能力帶來的社會張力持續升高，針對 AI 領導人的極端行動已現實化
+- 發布**藥物發現專用 AI 模型**（as of 2026-04-17）——AI 開始重新定義藥廠研發管線
+- 向有限用戶釋出**網路安全專用 AI 模型**（as of 2026-04-15）
+- 4/11 燃燒瓶攻擊嫌犯 4/14 落網，供稱「想殺 Altman、阻止人類因 AI 而滅絕」
 
 ## Key Events
 
+- **2026-04-17** — 發布專門做藥物發現的新 AI 模型。AI 不只搶工程師的活，現在連藥廠研發管線都在被重新定義。Source: [[raw/2026/04/17]]
 - **2026-04-15** — 向有限用戶釋出網路安全專用 AI 模型（Mythos 引發全球安全討論後的回應性產品）。同日 Anthropic 備 Opus 4.7，NVIDIA 推量子 AI——三巨頭同日各踩不同賽道。Source: [[raw/2026/04/15]]
 - **2026-04-14** — 4/11 燃燒瓶攻擊嫌犯落網。CNBC 報導嫌犯供稱動機是「想殺 Altman、阻止人類因 AI 而滅絕」。Source: [[raw/2026/04/14]]
 - **2026-04-13** — 測試 Codex 新功能「Scratchpad」：可從 TODO 列表同時啟動多個 chat 並行執行。與 Anthropic Claude Code epitaxy 同期推出，AI 輔助開發賽道正面交鋒。Source: [[raw/2026/04/13]]

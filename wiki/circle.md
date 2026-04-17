@@ -1,25 +1,24 @@
 ---
 aliases: [Circle, USDC, x402]
 first_seen: 2026-04-01
-last_updated: 2026-04-15
+last_updated: 2026-04-17
 tags: [crypto, defi]
 ---
 
 # Circle
 
-USDC 發行商。x402 微支付協議正在吃掉傳統支付做不到的長尾市場。
+USDC 發行商。x402 微支付協議正在吃掉傳統支付做不到的長尾市場。但因 Drift 駭客事件面臨集體訴訟，同時 Drift 協議轉向 USDT，競爭格局改變。
 
 ## Current Status
 
-- 過去 3 小時鑄了 **7.5 億 USDC**（as of 2026-04-15，反映 BTC 突破 $76K 帶動的穩定幣需求）
+- 因 **Drift 駭客事件**面臨**集體訴訟**（as of 2026-04-17）
+- Drift 將從 USDC **轉向 USDT** 重新上線——對 USDC 在 Solana 生態地位的打擊
 - x402 微支付 9 個月 1.4 億筆
-- cirBTC 挑戰 WBTC
-- 收購 Liquity（immutable 穩定幣協議）
-- Drift 事件暴露 CCTP 反應速度問題
-- Visa Direct 已讓美國用戶可用簽帳卡直接購買 USDC（無需交易所帳號）
+- Drift 事件持續暴露 CCTP 反應速度問題
 
 ## Key Events
 
+- **2026-04-17** — 因 Drift 駭客事件遭集體訴訟。Drift 轉向 USDT 重上線，對 USDC 在 Solana 上的地位造成競爭壓力。Source: [[raw/2026/04/17]]
 - **2026-04-15** — 過去 3 小時鑄造 7.5 億 USDC，BTC 突破 $76K 帶動穩定幣需求激增。Source: [[raw/2026/04/15]]
 - **2026-04-12** — x402 微支付 9 個月累計 1.4 億筆，平均 $0.31。正在吃 Stripe/Visa 手續費模型跑不動的長尾。Source: [[raw/2026/04/12]]
 - **2026-04-11** — 過去一個月在 Solana 鑄造 105 億 USDC。Visa Direct 接入 USDC。Source: [[raw/2026/04/11]]

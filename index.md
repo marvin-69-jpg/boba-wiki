@@ -6,25 +6,33 @@
 
 | Page | Summary | Tags | Last Updated |
 |------|---------|------|-------------|
-| [[wiki/btc\|BTC]] | 突破 $76,120 創兩個月新高，Matrixport 高點鎖利 $4,819 萬，Polymarket BTC $80K 年底機率 80% | crypto | 2026-04-15 |
-| [[wiki/eth\|ETH]] | 漲至 $2,375（+8%）跑贏 BTC，Matrixport 高點平倉 95,000 ETH 多單 | crypto | 2026-04-15 |
+| [[wiki/btc\|BTC]] | $75K 天花板兩個月未破，回落 $73,500，BlackRock 7 小時提 3,899 BTC，礦企 Q1 拋售超 3.2 萬枚 | crypto | 2026-04-17 |
+| [[wiki/eth\|ETH]] | $2,390，BlackRock 同批提走 839 ETH | crypto | 2026-04-17 |
 | [[wiki/btc-etf\|BTC ETF]] | 昨日淨流出 3,539 BTC（$2.66 億），Goldman Sachs 申請 Bitcoin Premium Income ETF | crypto, defi | 2026-04-15 |
-| [[wiki/us-iran\|美伊衝突]] | Trump 稱「戰爭接近結束」，WTI -4%，霍爾木茲 20+ 商船通過，和平傾向走強 | macro | 2026-04-15 |
-| [[wiki/us-macro\|美國總經]] | S&P +10.2% 距新高 0.7%，Goolsbee 警告降息推遲 2027，Pattern Day Trader 規則廢除 | macro | 2026-04-15 |
+| [[wiki/us-iran\|美伊衝突]] | 以黎 10 天停火生效，伊核「幾乎全部同意」，但 IRGC 向曼德海峽發軍事警告 | macro | 2026-04-17 |
+| [[wiki/us-macro\|美國總經]] | S&P/Nasdaq 連漲 12 天創歷史，進口物價 +0.8%，油費 +16%，降息推至 2027/9 | macro | 2026-04-17 |
 | [[wiki/kraken\|Kraken]] | 秘密向 SEC 提交 IPO 申請，Deutsche Börse $2 億投資估值 $133 億 | crypto | 2026-04-15 |
-| [[wiki/anthropic\|Anthropic]] | 準備 Opus 4.7 + AI 設計工具，Jupiter 預 IPO 隱含市值 $8,510 億 | tech | 2026-04-15 |
-| [[wiki/openai\|OpenAI]] | 向限定用戶釋出網路安全專用 AI 模型，Altman 攻擊嫌犯落網 | tech | 2026-04-15 |
+| [[wiki/anthropic\|Anthropic]] | 多國財政部長和銀行家對 Mythos 模型「表達嚴重擔憂」（BBC），Opus 4.7 備妥 | tech | 2026-04-17 |
+| [[wiki/openai\|OpenAI]] | 發布藥物發現 AI 模型，AI 開始重新定義藥廠研發管線 | tech | 2026-04-17 |
 | [[wiki/sec\|SEC / CLARITY Act]] | 正式廢除 Pattern Day Trader $25K 門檻，DeFi 前端最友善監管訊號 | regulation | 2026-04-15 |
-| [[wiki/circle\|Circle]] | BTC 突破 $76K 後 3 小時內鑄造 7.5 億 USDC，x402 微支付 1.4 億筆 | crypto, defi | 2026-04-15 |
+| [[wiki/circle\|Circle]] | 因 Drift 駭客事件遭集體訴訟，Drift 轉向 USDT 重上線 | crypto, defi | 2026-04-17 |
 | [[wiki/stablecoins\|穩定幣]] | JPMorgan CFO 警告成「監管套利」工具，Circle 3 小時鑄 7.5 億 USDC，總市值歷史新高 | crypto, defi | 2026-04-15 |
 | [[wiki/polymarket\|Polymarket]] | BTC 年底破 $80K 機率升至 80%，年化費 $7 億，停火內幕交易疑雲 | crypto, defi | 2026-04-15 |
-| [[wiki/solana\|Solana]] | Fed 主席候選人 Kevin Warsh 持有 Solana 基礎設施早期投資，Kamino RWA 借貸破 $10 億 | crypto | 2026-04-15 |
-| [[wiki/goldman-sachs\|Goldman Sachs]] | $3.5 兆 AUM 申請 Bitcoin Premium Income ETF（covered call 策略），TradFi 第三家下場 | crypto, macro | 2026-04-15 |
+| [[wiki/solana\|Solana]] | Solana Foundation 聯手 Tether 啟動 $1.48 億 Drift 恢復計劃，Drift 轉向 USDT | crypto | 2026-04-17 |
+| [[wiki/goldman-sachs\|Goldman Sachs]] | BTC covered call ETF 已在銷售，繼申請後快速執行 | crypto, macro | 2026-04-17 |
 | [[wiki/kevin-warsh\|Kevin Warsh]] | Fed 主席熱門候選人，財務披露持有 Compound/Optimism/Blast/Solana 等加密基礎設施早期投資 | people, crypto, macro | 2026-04-15 |
 | [[wiki/jpmorgan\|JPMorgan]] | 美國最大銀行，CFO 公開警告穩定幣成「監管套利」工具，存款加速外流 | macro, crypto | 2026-04-15 |
 | [[wiki/x-twitter\|X（前 Twitter）]] | 上線 Cashtags 功能，搜代幣即時顯示價格，加拿大 Wealthsimple 試點 X 內交易 | tech, crypto | 2026-04-15 |
-| [[wiki/nvidia\|NVIDIA]] | 推出「Ising」全球首個為加速量子電腦設計的開源 AI 模型 | tech | 2026-04-15 |
+| [[wiki/nvidia\|NVIDIA]] | Ising 引爆全球量子概念股（韓 +30%/141%，中日 +8%），量子市場 2030 年破 $110 億 | tech | 2026-04-17 |
 | [[wiki/matrixport\|Matrixport]] | BTC $76K 高點平倉 1,150 BTC + 95,000 ETH 多單，落袋 $4,819 萬 | crypto | 2026-04-15 |
+| [[wiki/blackrock\|BlackRock]] | 7 小時內從 Coinbase 提走 3,899 BTC（$2.9 億）+ 839 ETH，礦企投降期逆勢吸籌 | crypto | 2026-04-17 |
+| [[wiki/schwab\|嘉信理財]] | 幾週內開放 BTC+ETH 現貨交易（75bps），CEO 透露考慮進軍預測市場 | crypto | 2026-04-17 |
+| [[wiki/drift\|Drift Protocol]] | 損失 $2.7 億（更正早期 $27 億誤植），Tether + Solana Foundation $1.48 億救援，轉向 USDT | crypto, defi | 2026-04-17 |
+| [[wiki/tether\|Tether]] | 帶頭 $1.48 億救援 Drift，Drift 轉向 USDT，鞏固 Solana 生態話語權 | crypto, tech | 2026-04-17 |
+| [[wiki/hyperliquid\|Hyperliquid]] | 6 錢包集群持倉 $1.8 億 HYPE（Galaxy Digital OTC），21Shares 申請 $THYP ETF | crypto, defi | 2026-04-17 |
+| [[wiki/netflix\|Netflix]] | Q1 $122.5 億超預期但 Q2 EPS 遜色盤後 -9%，共同創辦人 Reed Hastings 離開董事會 | tech, macro | 2026-04-17 |
+| [[wiki/ordi\|ORDI（Bitcoin 銘文）]] | 24h +190%（報 $9.8），BTC 站穩後資金地毯式掃過銘文/山寨老標的 | crypto | 2026-04-17 |
+| [[wiki/btc-miners\|比特幣礦企（北美上市）]] | Q1 合計拋售超 3.2 萬 BTC（超去年全年），hashprice 歷史低位 $35/PH/s，20% 礦工虧損 | crypto | 2026-04-17 |
 | [[wiki/cz\|CZ]] | Binance 創辦人，vs OKX Star 口水戰，被牽入 WLFI 利益鏈 | people, crypto | 2026-04-12 |
 | [[wiki/binance\|Binance]] | 全球最大交易所，TradFi 合約 Q1 成長 188%，上架美股永續 | crypto | 2026-04-12 |
 | [[wiki/okx\|OKX]] | 全球第二大交易所，CEO Star 與 CZ 公開衝突 | crypto | 2026-04-10 |
@@ -102,3 +110,4 @@
 | 2026-04-13 | [[raw/2026/04/13]] |
 | 2026-04-14 | [[raw/2026/04/14]] |
 | 2026-04-15 | [[raw/2026/04/15]] |
+| 2026-04-17 | [[raw/2026/04/17]] |

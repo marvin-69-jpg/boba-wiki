@@ -1,7 +1,7 @@
 ---
 aliases: [Bitcoin, 比特幣, BTC]
 first_seen: 2026-03-22
-last_updated: 2026-04-15
+last_updated: 2026-04-17
 tags: [crypto]
 ---
 
@@ -11,15 +11,16 @@ tags: [crypto]
 
 ## Current Status
 
-- 突破 $76,120 創兩個月新高，報 $74,489（+5% 24h）（as of 2026-04-15）
-- Trump 宣稱美伊戰事「接近結束」帶動風險情緒進一步回暖
-- Matrixport 在高點平倉 1,150 BTC + 95,000 ETH 多單，落袋 $4,819 萬（逢高鎖利信號）
-- BTC ETF 昨日淨流出 3,539 BTC（$2.66 億），但 7 日仍淨流入 +508 BTC（機構仍在吸籌）
-- Polymarket：BTC 年底破 $80K 機率升至 80%
+- 再次挑戰 $75K 失敗，美盤回落至 **$73,500（-1.5%）**（as of 2026-04-17）
+- **$75K 天花板**兩個月來依然堅固，未能有效突破
+- BlackRock 7 小時內從 Coinbase 提走 3,899 BTC（$2.9 億）+ 839 ETH——機構逆勢吸籌
+- 北美上市礦企 Q1 合計拋售超 3.2 萬枚 BTC（超去年全年），hashprice 跌至 $35/PH/s 歷史低位
+- 礦工投降 vs 機構買入：方向對立，歷史上分歧不持久
 - Hash Ribbons 投降訊號 3/18 觸發（2012 年以來 100% 標記底部），仍有效
 
 ## Key Events
 
+- **2026-04-17** — 再次挑戰 $75K 失敗，美盤快速回落至 $73,500（-1.5%），兩個月天花板依然堅固。BlackRock 7 小時內從 Coinbase 提走 3,899 BTC（$2.9 億）+ 839 ETH。北美礦企 Q1 合計拋售超 3.2 萬枚 BTC（超去年全年），hashprice 跌至 $35/PH/s 歷史低位，約 20% 礦工已虧損。S&P 500 和 Nasdaq 連漲 12 個交易日創歷史紀錄。Source: [[raw/2026/04/17]]
 - **2026-04-15** — 突破 $76,120 創兩個月新高，報 $74,489（+5%）。Trump 稱美伊「接近結束」帶動多資產同步走高。Matrixport 高點平倉 1,150 BTC + 95,000 ETH（$4,819 萬），鏈上資金費率全面負值（空頭未認輸）。BTC ETF 昨日淨流出 3,539 BTC（$2.66 億），7 日仍淨流入 +508 BTC。Polymarket BTC $80K 年底機率 80%。Source: [[raw/2026/04/15]]
 - **2026-04-14** — 短時觸及 $74,900，回穩 $74,379（+5% 24h）。美伊談判意外轉機，Vance 稱「大量進展」帶動風險情緒回暖，60 分鐘內 $1.75 億空單清算。ETF 上週單日淨流入 +3,353 BTC（$2.4 億）。S&P 500 收復伊朗開戰以來全部跌幅。Source: [[raw/2026/04/14]]
 - **2026-04-13** — 報 $71,067（-0.9%），恐懼指數 12（極度恐懼）。美伊談判破裂 + 霍爾木茲封鎖今晚啟動，WTI 跳空 +10%。Saylor 發「Think ₿igger」暗示 Strategy 加碼。波段巨鯨同時掛 5,000 ETH 限價賣單。Source: [[raw/2026/04/13]]
@@ -48,4 +49,4 @@ tags: [crypto]
 
 ## Related
 
-[[btc-etf]] [[us-macro]] [[us-iran]] [[eth]] [[strategy]] [[stablecoins]] [[mara]] [[metaplanet]] [[blackrock]] [[schwab]] [[ftx-alameda]] [[bsc-meme]] [[td-securities]] [[matrixport]] [[polymarket]]
+[[btc-etf]] [[us-macro]] [[us-iran]] [[eth]] [[strategy]] [[stablecoins]] [[mara]] [[metaplanet]] [[blackrock]] [[schwab]] [[ftx-alameda]] [[bsc-meme]] [[td-securities]] [[matrixport]] [[polymarket]] [[btc-miners]] [[ordi]]
