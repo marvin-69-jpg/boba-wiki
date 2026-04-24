@@ -1,7 +1,7 @@
 ---
 aliases: [Goldman Sachs, 高盛, Canton Network]
 first_seen: 2026-04-15
-last_updated: 2026-04-21
+last_updated: 2026-04-22
 tags: [crypto, macro]
 ---
 
@@ -11,12 +11,13 @@ tags: [crypto, macro]
 
 ## Current Status
 
+- **提交 covered-call BTC income ETF，明確瞄準 $12T 固定收益市場**（as of 2026-04-22）
 - **每天在 Canton Network 結算超 $10 億的 tokenize repo**（as of 2026-04-21）
-- **BTC covered call ETF 已在銷售**（as of 2026-04-17）
-- 與 Schwab 推現貨、MS 加碼並列，是 TradFi 全面執行期的代表
+- 與 MSBT、Schwab 現貨並列，是 TradFi 全面執行期的代表
 
 ## Key Events
 
+- **2026-04-22** — 提交 covered-call BTC income ETF，明確定位為瞄準 $12T 固定收益市場的產品——不是在跟 BTC 投資人講，是在跟債券投資人講。Source: [[raw/2026/04/22]]
 - **2026-04-21** — 每天在 Canton Network 結算超 $10 億的 tokenize repo。DTCC 也在同步測試美股結算上鏈。傳統金融清算上鏈進入實際運作階段。Source: [[raw/2026/04/21]]
 - **2026-04-20** — BTC covered call ETF 持續熱銷。與 Schwab 推現貨、Morgan Stanley 加碼並列，被並稱為 TradFi 全面執行期。Source: [[raw/2026/04/20]]
 - **2026-04-17** — BTC covered call ETF 已在銷售，與 Schwab 宣布幾週內開放現貨交易並列，標誌 TradFi 全面執行期。Source: [[raw/2026/04/17]]

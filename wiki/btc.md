@@ -1,7 +1,7 @@
 ---
 aliases: [Bitcoin, 比特幣, BTC]
 first_seen: 2026-03-22
-last_updated: 2026-04-21
+last_updated: 2026-04-22
 tags: [crypto]
 ---
 
@@ -11,14 +11,16 @@ tags: [crypto]
 
 ## Current Status
 
-- 昨日最低觸 $73,700，今日反彈突破 **$76K**，現報 $76,100 附近（as of 2026-04-21）
-- ETF 4/20 單日淨流入 **+$608M（+8,036 BTC）**，週流入 $997M，IBIT 週貢獻 $906M
-- **Strategy 持幣 815,061 BTC 正式超越 BlackRock IBIT 的 802,000+ BTC**——史上最大加密 ETF 讓位
-- 散戶恐慌，機構加碼：方向繼續相反
-- 美伊停火 4/23 到期，Trump 稱「高度不可能延長」，地緣政治風險仍存
+- 報 **$76,100** 附近（as of 2026-04-22）
+- **交易所儲備 2.679M BTC**，2017 年 12 月以來最低——機構在囤，不在交易所
+- ETF 4/21 單日淨流入 **+$272M（+3,599 BTC）**，7 日合計 +$1.43B
+- **Morgan Stanley MSBT 費率 0.14% 史上最低，6 天吸 $100M**；Goldman 提交 covered-call BTC income ETF 瞄準 $12T 固定收益市場
+- **美軍印太司令告訴參議院**：「比特幣是有價值的電腦科學工具，是力量投射的體現」
+- **美伊停火已無限期延長**（Trump 4/22 宣布），地緣政治緊張降溫但霍爾木茲爭議未解
 
 ## Key Events
 
+- **2026-04-22** — 交易所儲備 2.679M BTC，2017 年 12 月以來最低，機構在囤不在交易所。ETF 4/21 單日淨流入 +$272M（+3,599 BTC），7 日 +$1.43B。MSBT 費率 0.14% 史上最低，6 天吸 $100M；Goldman 提交 covered-call BTC income ETF 瞄準 $12T 固定收益市場。最有趣：美軍印太司令告訴參議院「BTC 是有價值的電腦科學工具，是力量投射的體現」。美伊停火無限期延長，油價從破 $100 回落至 $90 以下。Source: [[raw/2026/04/22]]
 - **2026-04-21** — 昨日最低觸 $73,700 後反彈突破 $76K，現報 $76,100。ETF 4/20 單日淨流入 +$608M（+8,036 BTC）。Strategy 持幣 815,061 BTC 正式超越 BlackRock IBIT 的 802,000+ BTC——史上最大加密 ETF 讓位為第二。美伊停火 4/23 到期，Trump 稱「高度不可能延長」。Source: [[raw/2026/04/21]]
 - **2026-04-20** — 跌破 $74K，現報 $74,162。美伊二次和談破局，伊朗無人機攻擊美軍艦，油價跳升 7%（布倫特 $97.50）。加密總市值 24h 蒸發 2%（$2.589 兆）。機構逆勢：上週 BTC ETF 淨流入 $9.97 億，IBIT 一家吸走 $9.06 億。Source: [[raw/2026/04/20]]
 - **2026-04-17** — 再次挑戰 $75K 失敗，美盤快速回落至 $73,500（-1.5%），兩個月天花板依然堅固。BlackRock 7 小時內從 Coinbase 提走 3,899 BTC（$2.9 億）+ 839 ETH。北美礦企 Q1 合計拋售超 3.2 萬枚 BTC（超去年全年），hashprice 跌至 $35/PH/s 歷史低位，約 20% 礦工已虧損。S&P 500 和 Nasdaq 連漲 12 個交易日創歷史紀錄。Source: [[raw/2026/04/17]]
@@ -50,4 +52,4 @@ tags: [crypto]
 
 ## Related
 
-[[btc-etf]] [[us-macro]] [[us-iran]] [[eth]] [[strategy]] [[stablecoins]] [[mara]] [[metaplanet]] [[blackrock]] [[schwab]] [[ftx-alameda]] [[bsc-meme]] [[td-securities]] [[matrixport]] [[polymarket]] [[btc-miners]] [[ordi]] [[bitmine]]
+[[btc-etf]] [[us-macro]] [[us-iran]] [[eth]] [[strategy]] [[stablecoins]] [[mara]] [[metaplanet]] [[blackrock]] [[schwab]] [[ftx-alameda]] [[bsc-meme]] [[td-securities]] [[matrixport]] [[polymarket]] [[btc-miners]] [[ordi]] [[bitmine]] [[morgan-stanley]] [[goldman-sachs]] [[square]]

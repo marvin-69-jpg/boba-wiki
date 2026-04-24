@@ -142,3 +142,24 @@ First ingest — batch processing 4 days of daily reports to bootstrap the wiki.
   - sec ↔ paul-atkins ↔ kevin-warsh
   - hyperliquid ↔ grayscale ↔ coinbase ↔ btc-etf
   - rwa ↔ goldman-sachs ↔ coinbase ↔ bybit ↔ ripple ↔ solana
+
+## [2026-04-22] ingest | BOBA Daily 4/22
+
+- **Created (4 pages)**:
+  - arbitrum.md, kimi.md, pace-act.md, china-silver.md
+- **Updated (16 pages)**:
+  - btc.md, eth.md, btc-etf.md, stablecoins.md
+  - us-iran.md, us-macro.md
+  - kelpdao.md, aave.md
+  - morgan-stanley.md, goldman-sachs.md, kevin-warsh.md
+  - anthropic.md, google.md
+  - tether.md, circle.md, square.md
+- **Contradictions resolved**: us-iran.md — 前狀態「停火 4/23 到期，高度不可能延長」，更新為「停火無限期延長（Trump 4/22 宣布）」
+- **Key narrative**: 美伊停火劇情大逆轉：伊朗拒赴談判→萬斯取消→油破$100→Trump 宣布無限期延長。BTC 交易所儲備 2.679M 創 2017 最低，機構在囤不在交易所；MSBT 0.14% 史上最低費率 6 天吸 $100M；Goldman 提交 covered-call BTC income ETF 瞄準 $12T 固收市場——傳統金融跨界動作一波接一波。Kevin Warsh 4/22 聽證明確反 CBDC、支持數位資產，是加密史上最重要制度性表態之一。KelpDAO 後續：Arbitrum 凍 $71M 但黑客早洗走 $175M，Aave TVL 蒸發 $9.9B，L2 去中心化爭論爆發。穩定幣 2025 年交易量 $33T（Visa 的 2.3 倍），DoorDash 直接發外送員 stablecoin 薪水，PACE Act 亮相——基礎設施化加速。AI 三線並進：Anthropic Mythos 被未授權訪問調查、Kimi K2.6 程式基準超越閉源、Google Deep Research 新版即將上線。中國白銀 3 月進口 +78% 歷史新高，替代資產需求全面升溫。
+- **New cross-links**:
+  - kelpdao ↔ arbitrum ↔ aave ↔ eth
+  - stablecoins ↔ pace-act
+  - us-macro ↔ pace-act ↔ china-silver
+  - anthropic ↔ kimi ↔ google
+  - btc ↔ morgan-stanley ↔ goldman-sachs ↔ square
+  - kevin-warsh ↔ btc

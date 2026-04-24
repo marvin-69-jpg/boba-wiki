@@ -6,21 +6,21 @@
 
 | Page | Summary | Tags | Last Updated |
 |------|---------|------|-------------|
-| [[wiki/btc\|BTC]] | 反彈突破 $76K，ETF 4/20 單日 +$608M，Strategy 815,061 BTC 超越 BlackRock IBIT | crypto | 2026-04-21 |
-| [[wiki/eth\|ETH]] | BitMine 上週買 101,627 ETH（$235M），Aave 壞賬 $124M-$230M 啟動逃生門 | crypto | 2026-04-21 |
-| [[wiki/btc-etf\|BTC ETF]] | 4/20 單日 +$608M，Grayscale 推 HYPE ETF 換保管方，Strategy 超越 BlackRock | crypto, defi | 2026-04-21 |
-| [[wiki/us-iran\|美伊衝突]] | 停火 4/23 到期，Trump 稱高度不可能延長，萬斯赴巴基斯坦談判，S&P 期貨跌 1% | macro | 2026-04-21 |
-| [[wiki/us-macro\|美國總經]] | 美伊停火到期倒數，Warsh 4/22 參院聽證，CLARITY Act 被銀行業拖延 | macro | 2026-04-21 |
+| [[wiki/btc\|BTC]] | 交易所儲備 2.679M BTC（2017 最低），MSBT 0.14% 史上最低費率 6 天吸 $100M，美軍司令稱 BTC「力量投射工具」 | crypto | 2026-04-22 |
+| [[wiki/eth\|ETH]] | KelpDAO 後Aave TVL 蒸發 $9.9B 至 $16.4B，Arbitrum 凍 $71M 但黑客洗走 $175M | crypto | 2026-04-22 |
+| [[wiki/btc-etf\|BTC ETF]] | 4/21 單日 +$272M，7 日 +$1.43B；Goldman 提 covered-call ETF 瞄準 $12T 固收市場；MSBT 6 天吸 $100M | crypto, defi | 2026-04-22 |
+| [[wiki/us-iran\|美伊衝突]] | 停火無限期延長（Trump 4/22 宣布），油價從破 $100 回落 $90 以下，但霍爾木茲封鎖爭議未解 | macro | 2026-04-22 |
+| [[wiki/us-macro\|美國總經]] | Warsh 聽證：Fed 無權發 CBDC；PACE Act 亮相；穩定幣 $33T vs Visa $14T；中國白銀 +78% 歷史新高 | macro | 2026-04-22 |
 | [[wiki/kraken\|Kraken]] | 秘密向 SEC 提交 IPO 申請，Deutsche Börse $2 億投資估值 $133 億 | crypto | 2026-04-15 |
-| [[wiki/anthropic\|Anthropic]] | Amazon 追加投資 $5B，總上限 $25B；多國財政部長對 Mythos 模型表達嚴重擔憂 | tech | 2026-04-21 |
+| [[wiki/anthropic\|Anthropic]] | Bloomberg 報導 Mythos 被未授權訪問調查中；Amazon 追加投資 $5B，總上限 $25B | tech | 2026-04-22 |
 | [[wiki/openai\|OpenAI]] | 發布藥物發現 AI 模型，AI 開始重新定義藥廠研發管線 | tech | 2026-04-17 |
 | [[wiki/sec\|SEC / CLARITY Act]] | Atkins 宣布終結「regulation by enforcement」，CLARITY Act 被銀行業拖延 | regulation | 2026-04-21 |
-| [[wiki/circle\|Circle]] | 因 Drift 駭客事件遭集體訴訟，Drift 轉向 USDT 重上線 | crypto, defi | 2026-04-17 |
-| [[wiki/stablecoins\|穩定幣]] | 總供應突破 $3,200 億歷史新高，SEC 委員 Uyeda 稱過去四年是「完全異常值」 | crypto, defi | 2026-04-20 |
+| [[wiki/circle\|Circle]] | 與 Tether 24h 合鑄 $1.5B 穩定幣，因 Drift 駭客事件遭集體訴訟，Drift 轉向 USDT | crypto, defi | 2026-04-22 |
+| [[wiki/stablecoins\|穩定幣]] | Tether+Circle 24h 鑄 $1.5B，2025 年交易量 $33T 是 Visa 2.3 倍，DoorDash 發 stablecoin 薪水，PACE Act 亮相 | crypto, defi | 2026-04-22 |
 | [[wiki/polymarket\|Polymarket]] | 整體規模 $580 億歷史新高，BTC 年底 $80K 機率 80% | crypto, defi | 2026-04-20 |
 | [[wiki/solana\|Solana]] | 穩定幣持有時間壓縮到 70 秒、月成交 $1 兆，Coinbase+Bybit 跟進美股代幣化 | crypto | 2026-04-21 |
-| [[wiki/goldman-sachs\|Goldman Sachs]] | Canton Network 每天結算超 $10 億 tokenize repo，BTC ETF 持續銷售 | crypto, macro | 2026-04-21 |
-| [[wiki/kevin-warsh\|Kevin Warsh]] | Fed 主席熱門候選人，4/22 參院聽證，市場看利率態度 | people, crypto, macro | 2026-04-21 |
+| [[wiki/goldman-sachs\|Goldman Sachs]] | 提交 covered-call BTC income ETF 瞄準 $12T 固收市場，Canton Network 每天 $10億+ tokenize repo | crypto, macro | 2026-04-22 |
+| [[wiki/kevin-warsh\|Kevin Warsh]] | 4/22 聽證：Fed 無法律權利發 CBDC；數位資產已是美國金融服務業的一部分 | people, crypto, macro | 2026-04-22 |
 | [[wiki/jpmorgan\|JPMorgan]] | 美國最大銀行，CFO 公開警告穩定幣成「監管套利」工具，存款加速外流 | macro, crypto | 2026-04-15 |
 | [[wiki/x-twitter\|X（前 Twitter）]] | 上線 Cashtags 功能，搜代幣即時顯示價格，加拿大 Wealthsimple 試點 X 內交易 | tech, crypto | 2026-04-15 |
 | [[wiki/nvidia\|NVIDIA]] | Ising 引爆全球量子概念股（韓 +30%/141%，中日 +8%），量子市場 2030 年破 $110 億 | tech | 2026-04-17 |
@@ -28,7 +28,7 @@
 | [[wiki/blackrock\|BlackRock]] | IBIT 802,000+ BTC 被 Strategy（815,061 BTC）超越，讓位史上最大 ETF 稱號 | crypto | 2026-04-21 |
 | [[wiki/schwab\|嘉信理財]] | 幾週內開放 BTC+ETH 現貨交易（75bps），傳統投資人進場門檻持續降低 | crypto | 2026-04-20 |
 | [[wiki/drift\|Drift Protocol]] | 損失 $2.7 億（更正早期 $27 億誤植），Tether + Solana Foundation $1.48 億救援，轉向 USDT | crypto, defi | 2026-04-17 |
-| [[wiki/tether\|Tether]] | 帶頭 $1.48 億救援 Drift，Drift 轉向 USDT，鞏固 Solana 生態話語權 | crypto, tech | 2026-04-17 |
+| [[wiki/tether\|Tether]] | 與 Circle 24h 合鑄 $1.5B 穩定幣，帶頭 $1.48 億救援 Drift，Drift 轉向 USDT | crypto, tech | 2026-04-22 |
 | [[wiki/hyperliquid\|Hyperliquid]] | 6 錢包集群持倉 $1.8 億 HYPE（Galaxy Digital OTC），21Shares 申請 $THYP ETF | crypto, defi | 2026-04-17 |
 | [[wiki/netflix\|Netflix]] | Q1 $122.5 億超預期但 Q2 EPS 遜色盤後 -9%，共同創辦人 Reed Hastings 離開董事會 | tech, macro | 2026-04-17 |
 | [[wiki/ordi\|ORDI（Bitcoin 銘文）]] | 24h +190%（報 $9.8），BTC 站穩後資金地毯式掃過銘文/山寨老標的 | crypto | 2026-04-17 |
@@ -38,10 +38,10 @@
 | [[wiki/okx\|OKX]] | 全球第二大交易所，CEO Star 與 CZ 公開衝突 | crypto | 2026-04-10 |
 | [[wiki/trump-crypto\|Trump 加密利益鏈]] | WLFI vs Justin Sun 法律戰，$TRUMP 鯨魚囤貨，Chaos Labs 報告 WLFI 在 Dolomite 槓桿佔 TVL 82.7% | crypto, regulation | 2026-04-13 |
 | [[wiki/genius-act\|GENIUS Act]] | 穩定幣收益是法案關鍵瓶頸，白宮顧問稱妥協方案成形 | regulation | 2026-04-14 |
-| [[wiki/aave\|Aave]] | 壞賬量化 $124M-$230M，啟動逃生門讓存款人分批出場，跌 33%（Morpho 趁亂 +14%） | crypto, defi | 2026-04-21 |
+| [[wiki/aave\|Aave]] | TVL 跌至 $16.4B（事件前 $26.4B，蒸發 $9.9B），壞賬 $124M-$230M，逃生門持續出場 | crypto, defi | 2026-04-22 |
 | [[wiki/blackrock\|BlackRock]] | 持續從 Coinbase 大量提走 BTC，4/14 再提 2,004 BTC（$1.45 億），機構逆勢吸籌 | crypto | 2026-04-14 |
 | [[wiki/strategy\|Strategy]] | 上週買 34,164 BTC（$2.54B，Saylor 史上最大單週），815,061 BTC 正式超越 BlackRock | crypto | 2026-04-21 |
-| [[wiki/morgan-stanley\|Morgan Stanley]] | ETF 加碼 215 BTC（與 BlackRock 3,372 BTC 同日），TradFi 持續加碼 | crypto | 2026-04-21 |
+| [[wiki/morgan-stanley\|Morgan Stanley]] | MSBT 費率 0.14% 史上最低，6 天吸 $100M，TradFi 最強吸籌速度 | crypto | 2026-04-22 |
 | [[wiki/morpho\|Morpho]] | Aave 危機趁亂漲 14%（Aave 跌 33%），Apollo Global 鎖 $1.125 億進 MORPHO | crypto, defi | 2026-04-21 |
 | [[wiki/apollo\|Apollo Global]] | AUM $8,400 億另類資管，鎖 $1.125 億進 MORPHO，傳統金融機構直接押注 DeFi 協議 | crypto, defi, macro | 2026-04-14 |
 | [[wiki/td-securities\|TD Securities]] | 加拿大道明銀行投行部，正式將「上市比特幣國庫公司（PBTCs）」列為獨立可投資資產類別 | crypto, macro | 2026-04-14 |
@@ -62,7 +62,7 @@
 | [[wiki/bittensor\|Bittensor]] | 去中心化 AI 網路，基金會強關子網引發治理爭議 | crypto, tech | 2026-04-11 |
 | [[wiki/drift\|Drift Protocol]] | Solana perp DEX 被北韓 UNC4736 駭 $2.86 億，6 個月社交工程 | crypto, defi | 2026-04-05 |
 | [[wiki/coinbase\|Coinbase]] | 與 Bybit 洽談美股代幣化；Grayscale 將 HYPE ETF 保管方從 Coinbase 換成 Anchorage | crypto | 2026-04-21 |
-| [[wiki/google\|Google]] | TurboQuant 蒸發美光千億，量子論文壓縮 BTC 破解時間線至 2029 | tech | 2026-04-01 |
+| [[wiki/google\|Google]] | Deep Research 新版本即將上線，TurboQuant 蒸發美光千億，量子論文壓縮 BTC 破解時間線至 2029 | tech | 2026-04-22 |
 | [[wiki/deepseek\|DeepSeek]] | V4 即將發布，首次完全跑在華為 Ascend 晶片上（去 NVIDIA 化） | tech | 2026-04-04 |
 | [[wiki/mara\|MARA]] | 礦企投降：虧 $2.36 億賣 15,133 BTC，裁員 15% 轉 AI | crypto | 2026-04-08 |
 | [[wiki/schwab\|嘉信理財]] | Q2 上線 BTC/ETH 現貨交易，$12 兆 AUM、4,600 萬帳戶 | crypto | 2026-04-04 |
@@ -81,7 +81,8 @@
 | [[wiki/gold\|黃金]] | 閃崩 18.5% 蒸發 $1.5 兆後反彈回 $4,500，JPMorgan 年底目標 $6,300 | macro | 2026-03-28 |
 | [[wiki/resolv\|Resolv Protocol]] | USR 穩定幣遭攻擊崩 70%，攻擊者 17 分鐘鑄 5,000 萬顆提走 $2,500 萬 ETH，協議暫停 | crypto, defi | 2026-03-28 |
 | [[wiki/balancer\|Balancer]] | V2 漏洞被抽走 $1.28 億，TVL 跌 95%，公司實體關閉轉 DAO 運作 | crypto, defi | 2026-03-28 |
-| [[wiki/kelpdao\|KelpDAO]] | 準備備忘錄把責任推給 LayerZero，Aave 壞賬 $124M-$230M 善後未結束 | crypto, defi | 2026-04-21 |
+| [[wiki/kelpdao\|KelpDAO]] | Arbitrum 凍 $71M 但黑客早已洗走 $175M，Aave TVL 從 $26.4B 跌至 $16.4B，L2 去中心化爭論引爆 | crypto, defi | 2026-04-22 |
+| [[wiki/arbitrum\|Arbitrum]] | Ethereum L2，安全委員會凍黑客 $71M 僅攔截 29%，多簽凍 ETH 引發 L2 去中心化辯論 | crypto, defi | 2026-04-22 |
 | [[wiki/jupiter\|Jupiter]] | Solana 最大 DEX Aggregator，rsETH 連鎖效應 USDC 利用率 99%，但 PE 2x 遠低於 Robinhood/Coinbase | crypto, defi | 2026-04-20 |
 | [[wiki/lazarus\|北韓 Lazarus 駭客]] | 100 名北韓駭客滲透加密圈，AI 加速攻擊，Vercel 遭精密攻擊，UNC4736 曾駭 Drift $2.7 億 | crypto, regulation | 2026-04-20 |
 | [[wiki/grok\|Grok（xAI）]] | Grok 4.3 beta 上線，支援 Skills 架構，Q1 AI 吸走全球 80% VC 資金 $2,420 億 | tech | 2026-04-20 |
@@ -93,6 +94,9 @@
 | [[wiki/grayscale\|Grayscale]] | 向 SEC 提交 Hyperliquid ETF 修訂案，保管方從 Coinbase 換成 Anchorage，積極推進 | crypto | 2026-04-21 |
 | [[wiki/bybit\|Bybit]] | 與 Coinbase 洽談美股代幣化，繼 Solana 鏈上股票後主流交易所也要入場 | crypto | 2026-04-21 |
 | [[wiki/ripple\|Ripple]] | 與韓國 $890 億保險巨頭合作建政府債券交易平台，持續深化亞洲傳統金融機構上鏈 | crypto | 2026-04-21 |
+| [[wiki/kimi\|Kimi（月之暗面）]] | K2.6 全面上線 API，多項程式基準超越閉源旗艦，AI 效率競爭加速 | tech | 2026-04-22 |
+| [[wiki/pace-act\|PACE Act]] | 允許 fintech/加密公司申請全國支付牌照並直接接入 Fed 支付系統，2026-04-22 亮相 | regulation, crypto | 2026-04-22 |
+| [[wiki/china-silver\|中國白銀進口]] | 3 月 836 噸（+78%，+173% vs 10 年均值），歷史新高，散戶替代黃金＋太陽能備貨雙驅動 | macro | 2026-04-22 |
 
 ## Raw Sources
 
@@ -125,3 +129,4 @@
 | 2026-04-17 | [[raw/2026/04/17]] |
 | 2026-04-20 | [[raw/2026/04/20]] |
 | 2026-04-21 | [[raw/2026/04/21]] |
+| 2026-04-22 | [[raw/2026/04/22]] |
