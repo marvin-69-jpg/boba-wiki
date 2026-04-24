@@ -101,3 +101,21 @@ First ingest — batch processing 4 days of daily reports to bootstrap the wiki.
   - hyperliquid ↔ ordi
   - netflix ↔ us-macro, netflix ↔ openai
   - us-iran: 新增曼德海峽 alias
+
+## [2026-04-20] ingest | BOBA Daily 4/20
+
+- **Created (5 pages)**:
+  - kelpdao.md, jupiter.md, lazarus.md, grok.md, pump-fun.md
+- **Updated (17 pages)**:
+  - btc.md, eth.md, btc-etf.md
+  - us-iran.md, us-macro.md
+  - schwab.md, goldman-sachs.md, morgan-stanley.md
+  - stablecoins.md, sec.md, solana.md, aave.md, polymarket.md
+  - drift.md, anthropic.md, openai.md, x-twitter.md
+- **Contradictions resolved**: none
+- **Key narrative**: BTC 跌破 $74K（美伊二次和談破局 + 伊朗無人機攻擊美軍艦），但上週 ETF 逆勢淨流入 $9.97 億（IBIT $9.06 億）。KelpDAO rsETH 被駭餘震：Solana 借貸利率飆升（Jupiter 99%、Kamino 10.2%），Aave TVL 一週跌 $84 億。Schwab 宣布幾週內推現貨、Goldman BTC ETF 持續銷售、MS 加碼——TradFi 全面執行期確立。穩定幣總供應破 $3,200 億、預測市場 $580 億同創新高。Grok 4.3 beta 上線支援 Skills 架構；Binance Research：Q1 AI 吸走全球 80% VC 資金（$2,420 億）。pump.fun Q1 $1.23 億，鏈上股票 Solana 佔全球 99%，Jupiter PE 2x 凸顯低估。Lazarus 北韓駭客 100 人滲透加密圈、AI 加速攻擊，Vercel CEO 確認遭精密攻擊。
+- **New cross-links**:
+  - kelpdao ↔ aave ↔ solana ↔ eth ↔ drift
+  - kelpdao ↔ jupiter ↔ pump-fun ↔ solana
+  - lazarus ↔ drift ↔ aave ↔ solana ↔ eth
+  - grok ↔ anthropic ↔ openai ↔ x-twitter

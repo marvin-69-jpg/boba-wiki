@@ -1,23 +1,25 @@
 ---
 aliases: [SOL, Solana]
 first_seen: 2026-03-25
-last_updated: 2026-04-17
+last_updated: 2026-04-20
 tags: [crypto]
 ---
 
 # Solana
 
-高吞吐量 L1 區塊鏈。RWA 和穩定幣生態快速成長。Solana Foundation 聯手 Tether 啟動 Drift 事件恢復計劃，鞏固生態韌性。
+高吞吐量 L1 區塊鏈。RWA 和穩定幣生態快速成長，同時也是 KelpDAO rsETH 駭客連鎖效應的波及地。
 
 ## Current Status
 
-- **Solana Foundation 聯手 Tether** 領導 Drift 事件 $1.48 億恢復計劃（as of 2026-04-17）
-- Drift 重上線後將採用 USDT，USDC 在 Solana 生態的主導地位受挑戰
-- Fed 主席候選人 **Kevin Warsh** 財務披露持有 Solana 基礎設施的早期投資
-- Kamino RWA 借貸突破 $10 億，佔 DeFi 全體 RWA 存款 52%
+- **KelpDAO rsETH 被駭後餘震蔓延**：Jupiter Lend USDC 利用率 **99%**，Kamino Main **10.2%**，Marginfi **7.65%**（as of 2026-04-20）
+- Solana 鏈上股票預售佔全球 **99%**（$15 億，TSLA 持有人超 2 萬）
+- **pump.fun** Q1 收入 $1.23 億，Solana 最賺錢 App，每天 $100 萬回購 PUMP
+- **Jupiter** 年化收入 $2.8 億，市值 $5.9 億，本益比 2x（Robinhood 7x，Coinbase 10x+）
+- Drift 恢復計劃（$1.48 億，Tether + Solana Foundation）仍在進行（as of 2026-04-17）
 
 ## Key Events
 
+- **2026-04-20** — KelpDAO rsETH 被駭連鎖效應波及 Solana：Jupiter Lend USDC 利用率飆至 99%，Kamino Main 10.2%，Marginfi 7.65%。同期正面數據：pump.fun Q1 $1.23 億（每日 $100 萬回購）、鏈上股票佔全球 99%（$15 億）、Jupiter PE 2x。Source: [[raw/2026/04/20]]
 - **2026-04-17** — Solana Foundation 聯手 Tether 領導 $1.48 億 Drift 恢復計劃。Drift 轉向 USDT 重上線。生態在危機中由基金會帶頭救援，彰顯 Solana 體制韌性。Source: [[raw/2026/04/17]]
 - **2026-04-15** — Fed 主席熱門候選人 Kevin Warsh 財務披露文件確認持有 Solana 基礎設施的早期投資。下一任可能掌管美元政策的人已是 Solana 生態的早期 LP。Source: [[raw/2026/04/15]]
 - **2026-04-13** — FTX/Alameda 解除質押 198,426 SOL（$1,621 萬），老玩家清算資產持續流回市場，構成中期賣壓。Source: [[raw/2026/04/13]]
@@ -32,4 +34,4 @@ tags: [crypto]
 
 ## Related
 
-[[circle]] [[stablecoins]] [[rwa]] [[eth]] [[phantom]] [[drift]] [[aave]] [[coinbase]] [[ftx-alameda]] [[kevin-warsh]]
+[[circle]] [[stablecoins]] [[rwa]] [[eth]] [[phantom]] [[drift]] [[aave]] [[coinbase]] [[ftx-alameda]] [[kevin-warsh]] [[kelpdao]] [[jupiter]] [[pump-fun]] [[lazarus]]

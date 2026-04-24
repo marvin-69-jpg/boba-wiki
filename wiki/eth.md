@@ -1,7 +1,7 @@
 ---
 aliases: [Ethereum, 以太坊, ETH]
 first_seen: 2026-03-22
-last_updated: 2026-04-17
+last_updated: 2026-04-20
 tags: [crypto]
 ---
 
@@ -11,14 +11,15 @@ tags: [crypto]
 
 ## Current Status
 
-- **$2,390** 附近（as of 2026-04-17）
-- BlackRock 7 小時內從 Coinbase 提走 839 ETH（與 3,899 BTC 同批）
-- BitMine 週內（4/6-4/12）買入 71,524 ETH（$1.56 億），總持倉 487 萬 ETH（$107 億）
+- 跌破 $2,300，現報 **$2,274**（as of 2026-04-20）
+- 鯨魚明顯分歧：一條在 $2,289 開 **$10 億 ETH 多單**；另一條今晨出清 **9,765 ETH**
+- KelpDAO rsETH 被駭後，Solana 借貸市場連鎖反應，Aave TVL 一週跌 $84 億
 - 交易所餘額 1,500 萬枚，10 年新低（籌碼仍鎖定中）
 - 鏈上質押量佔 ETH 總供應 32%，歷史新高
 
 ## Key Events
 
+- **2026-04-20** — 跌破 $2,300 至 $2,274。鯨魚明顯分歧：一條在 $2,289 開 $10 億 ETH 多單，另一條今晨出清 9,765 ETH。KelpDAO rsETH 被駭後，Solana 借貸利率飆升，Aave TVL 一週跌 $84 億——流動性壓力在全鏈傳導。Source: [[raw/2026/04/20]]
 - **2026-04-17** — $2,390 附近。BlackRock 7 小時內提走 839 ETH（與 3,899 BTC 同批）。Source: [[raw/2026/04/17]]
 - **2026-04-15** — 漲至 $2,375（+8%），跑贏 BTC（+5%）。Matrixport 平倉包含 95,000 ETH 的多單組合，落袋 $4,819 萬。Source: [[raw/2026/04/15]]
 - **2026-04-14** — 突破 $2,250，隨 BTC 同步反彈（+5%）。BitMine 同週買入 71,524 ETH（$1.56 億），總持倉衝到 487 萬 ETH（$107 億）。Source: [[raw/2026/04/14]]
@@ -38,4 +39,4 @@ tags: [crypto]
 
 ## Related
 
-[[btc]] [[btc-etf]] [[scroll]] [[solana]] [[stablecoins]] [[bitmine]] [[aave]] [[drift]] [[morpho]] [[hyperbridge]] [[matrixport]]
+[[btc]] [[btc-etf]] [[scroll]] [[solana]] [[stablecoins]] [[bitmine]] [[aave]] [[drift]] [[morpho]] [[hyperbridge]] [[matrixport]] [[kelpdao]] [[lazarus]]

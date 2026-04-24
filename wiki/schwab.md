@@ -1,7 +1,7 @@
 ---
 aliases: [Charles Schwab, 嘉信理財, SCHW]
 first_seen: 2026-04-04
-last_updated: 2026-04-17
+last_updated: 2026-04-20
 tags: [crypto]
 ---
 
@@ -19,6 +19,7 @@ tags: [crypto]
 
 ## Key Events
 
+- **2026-04-20** — 嘉信正式對外宣傳幾週內推出 BTC、ETH 現貨直接交易，用戶可在同一帳戶看加密和傳統持倉。全球最大折扣券商首度跨入現貨加密，與 Goldman BTC ETF、Morgan Stanley 加碼並列為本週 TradFi 全面執行的標誌。Source: [[raw/2026/04/20]]
 - **2026-04-17** — 正式宣布幾週內分批開放 BTC + ETH 現貨交易，費率 75bps，持倉顯示在傳統帳戶。CEO Rick Wurster 同時透露考慮推出預測市場。與 Goldman Sachs BTC covered call ETF 一同，標誌 TradFi 全面執行期。Source: [[raw/2026/04/17]]
 - **2026-04-04** — 宣布 Q2 透過銀行子公司推出 BTC 及 ETH 現貨交易。$12T AUM、4,600 萬帳戶。Bloomberg 分析師認為 BTC ETF AUM 可能超越黃金 ETF。Cathie Wood 表示 BTC -85% 崩盤時代「已結束」。Source: [[raw/2026/04/04]]
 

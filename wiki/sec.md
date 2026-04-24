@@ -1,7 +1,7 @@
 ---
 aliases: [SEC, CLARITY Act, 美國證券交易委員會]
 first_seen: 2026-03-22
-last_updated: 2026-04-15
+last_updated: 2026-04-20
 tags: [regulation]
 ---
 
@@ -20,6 +20,7 @@ tags: [regulation]
 
 ## Key Events
 
+- **2026-04-20** — SEC 委員 Uyeda 公開表示，過去四年是他「三十年職涯中從沒見過的完全異常值」——SEC 跑去管股息、管網路安全，早就不像證券監管機構了。監管路線正常化的訊號持續累積。Source: [[raw/2026/04/20]]
 - **2026-04-15** — 正式批准廢除 Pattern Day Trader 規則（$25K 最低帳戶門檻），散戶可頻繁交易，對美股和加密市場均為利多。Kraken 確認已秘密向 SEC 提交 IPO 申請。Source: [[raw/2026/04/15]]
 - **2026-04-14** — 交易與市場部門明確：部分 DeFi 前端、錢包擴充和手機 App 在特定條件下無需券商登記，是新政以來對 DeFi 最友善的監管訊號。Source: [[raw/2026/04/14]]
 - **2026-04-12** — WLFI 長文揭露 Justin Sun 投 $7,500 萬後 SEC 撤案的時間關聯。Source: [[raw/2026/04/12]]

@@ -6,27 +6,27 @@
 
 | Page | Summary | Tags | Last Updated |
 |------|---------|------|-------------|
-| [[wiki/btc\|BTC]] | $75K 天花板兩個月未破，回落 $73,500，BlackRock 7 小時提 3,899 BTC，礦企 Q1 拋售超 3.2 萬枚 | crypto | 2026-04-17 |
-| [[wiki/eth\|ETH]] | $2,390，BlackRock 同批提走 839 ETH | crypto | 2026-04-17 |
-| [[wiki/btc-etf\|BTC ETF]] | 昨日淨流出 3,539 BTC（$2.66 億），Goldman Sachs 申請 Bitcoin Premium Income ETF | crypto, defi | 2026-04-15 |
-| [[wiki/us-iran\|美伊衝突]] | 以黎 10 天停火生效，伊核「幾乎全部同意」，但 IRGC 向曼德海峽發軍事警告 | macro | 2026-04-17 |
-| [[wiki/us-macro\|美國總經]] | S&P/Nasdaq 連漲 12 天創歷史，進口物價 +0.8%，油費 +16%，降息推至 2027/9 | macro | 2026-04-17 |
+| [[wiki/btc\|BTC]] | 跌破 $74K（$74,162），美伊破局油價 $97.5，上週 ETF 淨流入 $9.97 億（IBIT $9.06 億） | crypto | 2026-04-20 |
+| [[wiki/eth\|ETH]] | 跌破 $2,300 至 $2,274，鯨魚 $10 億多單 vs 另一條出清 9,765 ETH，KelpDAO rsETH 連鎖效應 | crypto | 2026-04-20 |
+| [[wiki/btc-etf\|BTC ETF]] | 上週淨流入 $9.97 億，IBIT $9.06 億，Schwab/Goldman/MS TradFi 全面執行期 | crypto, defi | 2026-04-20 |
+| [[wiki/us-iran\|美伊衝突]] | 二次和談破局，伊朗無人機攻擊美軍艦，油價 WTI $91.35、布倫特 $97.50 | macro | 2026-04-20 |
+| [[wiki/us-macro\|美國總經]] | 美伊破局油價飆升，美股期貨低開，穩定幣 $3,200 億 + 預測市場 $580 億齊創新高 | macro | 2026-04-20 |
 | [[wiki/kraken\|Kraken]] | 秘密向 SEC 提交 IPO 申請，Deutsche Börse $2 億投資估值 $133 億 | crypto | 2026-04-15 |
 | [[wiki/anthropic\|Anthropic]] | 多國財政部長和銀行家對 Mythos 模型「表達嚴重擔憂」（BBC），Opus 4.7 備妥 | tech | 2026-04-17 |
 | [[wiki/openai\|OpenAI]] | 發布藥物發現 AI 模型，AI 開始重新定義藥廠研發管線 | tech | 2026-04-17 |
-| [[wiki/sec\|SEC / CLARITY Act]] | 正式廢除 Pattern Day Trader $25K 門檻，DeFi 前端最友善監管訊號 | regulation | 2026-04-15 |
+| [[wiki/sec\|SEC / CLARITY Act]] | 委員 Uyeda：過去 4 年是「三十年職涯中完全異常值」，監管路線正常化訊號 | regulation | 2026-04-20 |
 | [[wiki/circle\|Circle]] | 因 Drift 駭客事件遭集體訴訟，Drift 轉向 USDT 重上線 | crypto, defi | 2026-04-17 |
-| [[wiki/stablecoins\|穩定幣]] | JPMorgan CFO 警告成「監管套利」工具，Circle 3 小時鑄 7.5 億 USDC，總市值歷史新高 | crypto, defi | 2026-04-15 |
-| [[wiki/polymarket\|Polymarket]] | BTC 年底破 $80K 機率升至 80%，年化費 $7 億，停火內幕交易疑雲 | crypto, defi | 2026-04-15 |
-| [[wiki/solana\|Solana]] | Solana Foundation 聯手 Tether 啟動 $1.48 億 Drift 恢復計劃，Drift 轉向 USDT | crypto | 2026-04-17 |
-| [[wiki/goldman-sachs\|Goldman Sachs]] | BTC covered call ETF 已在銷售，繼申請後快速執行 | crypto, macro | 2026-04-17 |
+| [[wiki/stablecoins\|穩定幣]] | 總供應突破 $3,200 億歷史新高，SEC 委員 Uyeda 稱過去四年是「完全異常值」 | crypto, defi | 2026-04-20 |
+| [[wiki/polymarket\|Polymarket]] | 整體規模 $580 億歷史新高，BTC 年底 $80K 機率 80% | crypto, defi | 2026-04-20 |
+| [[wiki/solana\|Solana]] | KelpDAO rsETH 連鎖效應：Jupiter Lend 99%、Kamino 10.2%；pump.fun Q1 $1.23 億、鏈上股票 99% | crypto | 2026-04-20 |
+| [[wiki/goldman-sachs\|Goldman Sachs]] | BTC covered call ETF 持續銷售，與 Schwab/MS 並列 TradFi 全面執行期 | crypto, macro | 2026-04-20 |
 | [[wiki/kevin-warsh\|Kevin Warsh]] | Fed 主席熱門候選人，財務披露持有 Compound/Optimism/Blast/Solana 等加密基礎設施早期投資 | people, crypto, macro | 2026-04-15 |
 | [[wiki/jpmorgan\|JPMorgan]] | 美國最大銀行，CFO 公開警告穩定幣成「監管套利」工具，存款加速外流 | macro, crypto | 2026-04-15 |
 | [[wiki/x-twitter\|X（前 Twitter）]] | 上線 Cashtags 功能，搜代幣即時顯示價格，加拿大 Wealthsimple 試點 X 內交易 | tech, crypto | 2026-04-15 |
 | [[wiki/nvidia\|NVIDIA]] | Ising 引爆全球量子概念股（韓 +30%/141%，中日 +8%），量子市場 2030 年破 $110 億 | tech | 2026-04-17 |
 | [[wiki/matrixport\|Matrixport]] | BTC $76K 高點平倉 1,150 BTC + 95,000 ETH 多單，落袋 $4,819 萬 | crypto | 2026-04-15 |
 | [[wiki/blackrock\|BlackRock]] | 7 小時內從 Coinbase 提走 3,899 BTC（$2.9 億）+ 839 ETH，礦企投降期逆勢吸籌 | crypto | 2026-04-17 |
-| [[wiki/schwab\|嘉信理財]] | 幾週內開放 BTC+ETH 現貨交易（75bps），CEO 透露考慮進軍預測市場 | crypto | 2026-04-17 |
+| [[wiki/schwab\|嘉信理財]] | 幾週內開放 BTC+ETH 現貨交易（75bps），傳統投資人進場門檻持續降低 | crypto | 2026-04-20 |
 | [[wiki/drift\|Drift Protocol]] | 損失 $2.7 億（更正早期 $27 億誤植），Tether + Solana Foundation $1.48 億救援，轉向 USDT | crypto, defi | 2026-04-17 |
 | [[wiki/tether\|Tether]] | 帶頭 $1.48 億救援 Drift，Drift 轉向 USDT，鞏固 Solana 生態話語權 | crypto, tech | 2026-04-17 |
 | [[wiki/hyperliquid\|Hyperliquid]] | 6 錢包集群持倉 $1.8 億 HYPE（Galaxy Digital OTC），21Shares 申請 $THYP ETF | crypto, defi | 2026-04-17 |
@@ -38,10 +38,10 @@
 | [[wiki/okx\|OKX]] | 全球第二大交易所，CEO Star 與 CZ 公開衝突 | crypto | 2026-04-10 |
 | [[wiki/trump-crypto\|Trump 加密利益鏈]] | WLFI vs Justin Sun 法律戰，$TRUMP 鯨魚囤貨，Chaos Labs 報告 WLFI 在 Dolomite 槓桿佔 TVL 82.7% | crypto, regulation | 2026-04-13 |
 | [[wiki/genius-act\|GENIUS Act]] | 穩定幣收益是法案關鍵瓶頸，白宮顧問稱妥協方案成形 | regulation | 2026-04-14 |
-| [[wiki/aave\|Aave]] | DAO 通過收入 100% 歸入國庫（「Aave Will Win」首個約束性提案），V4 已上線 | crypto, defi | 2026-04-14 |
+| [[wiki/aave\|Aave]] | KelpDAO rsETH 連鎖效應：TVL $264 億 → $180 億（一週 -$84 億），0xngmi 推演三條善後路徑 | crypto, defi | 2026-04-20 |
 | [[wiki/blackrock\|BlackRock]] | 持續從 Coinbase 大量提走 BTC，4/14 再提 2,004 BTC（$1.45 億），機構逆勢吸籌 | crypto | 2026-04-14 |
 | [[wiki/strategy\|Strategy]] | 4/6-4/12 買入 13,927 BTC，總持倉 780,897 BTC（$553 億），浮虧 6.22%，TD Securities 列 PBTCs 為新資產類 | crypto | 2026-04-14 |
-| [[wiki/morgan-stanley\|Morgan Stanley]] | MSBT 上線，稱股市修正進入「最後階段」 | crypto | 2026-04-14 |
+| [[wiki/morgan-stanley\|Morgan Stanley]] | 加碼 BTC，2017 年稱「可能是零」，現在慶祝買了兩倍 | crypto | 2026-04-20 |
 | [[wiki/morpho\|Morpho]] | DeFi 借貸協議，Apollo Global 鎖 $1.125 億買入 9,000 萬 MORPHO（4 年），傳統機構進入 DeFi 治理層 | crypto, defi | 2026-04-14 |
 | [[wiki/apollo\|Apollo Global]] | AUM $8,400 億另類資管，鎖 $1.125 億進 MORPHO，傳統金融機構直接押注 DeFi 協議 | crypto, defi, macro | 2026-04-14 |
 | [[wiki/td-securities\|TD Securities]] | 加拿大道明銀行投行部，正式將「上市比特幣國庫公司（PBTCs）」列為獨立可投資資產類別 | crypto, macro | 2026-04-14 |
@@ -81,6 +81,11 @@
 | [[wiki/gold\|黃金]] | 閃崩 18.5% 蒸發 $1.5 兆後反彈回 $4,500，JPMorgan 年底目標 $6,300 | macro | 2026-03-28 |
 | [[wiki/resolv\|Resolv Protocol]] | USR 穩定幣遭攻擊崩 70%，攻擊者 17 分鐘鑄 5,000 萬顆提走 $2,500 萬 ETH，協議暫停 | crypto, defi | 2026-03-28 |
 | [[wiki/balancer\|Balancer]] | V2 漏洞被抽走 $1.28 億，TVL 跌 95%，公司實體關閉轉 DAO 運作 | crypto, defi | 2026-03-28 |
+| [[wiki/kelpdao\|KelpDAO]] | rsETH 遭駭後連鎖效應：Solana 借貸利率飆升、Aave TVL 一週跌 $84 億，0xngmi 推演三條出路 | crypto, defi | 2026-04-20 |
+| [[wiki/jupiter\|Jupiter]] | Solana 最大 DEX Aggregator，rsETH 連鎖效應 USDC 利用率 99%，但 PE 2x 遠低於 Robinhood/Coinbase | crypto, defi | 2026-04-20 |
+| [[wiki/lazarus\|北韓 Lazarus 駭客]] | 100 名北韓駭客滲透加密圈，AI 加速攻擊，Vercel 遭精密攻擊，UNC4736 曾駭 Drift $2.7 億 | crypto, regulation | 2026-04-20 |
+| [[wiki/grok\|Grok（xAI）]] | Grok 4.3 beta 上線，支援 Skills 架構，Q1 AI 吸走全球 80% VC 資金 $2,420 億 | tech | 2026-04-20 |
+| [[wiki/pump-fun\|pump.fun]] | Solana 最賺錢 App，Q1 收入 $1.23 億，每天 $100 萬回購 PUMP | crypto, defi | 2026-04-20 |
 
 ## Raw Sources
 
@@ -111,3 +116,4 @@
 | 2026-04-14 | [[raw/2026/04/14]] |
 | 2026-04-15 | [[raw/2026/04/15]] |
 | 2026-04-17 | [[raw/2026/04/17]] |
+| 2026-04-20 | [[raw/2026/04/20]] |
