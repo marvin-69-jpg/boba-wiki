@@ -1,7 +1,7 @@
 ---
 aliases: [RWA, Real World Assets, 真實世界資產]
 first_seen: 2026-03-25
-last_updated: 2026-04-21
+last_updated: 2026-04-24
 tags: [crypto, defi]
 ---
 
@@ -11,6 +11,7 @@ tags: [crypto, defi]
 
 ## Current Status
 
+- **Centrifuge TVL 30 天成長 52% 至 $18.9 億**；歐洲中小企業發票上鏈後已能在 Aave v3 作為抵押品（as of 2026-04-24）
 - **高盛每天在 Canton Network 結算超 $10 億 tokenize repo**；DTCC 測試美股結算上鏈（as of 2026-04-21）
 - **Coinbase + Bybit 洽談美股代幣化**；Ripple 與韓國 $890 億保險巨頭合作建政府債券平台（as of 2026-04-21）
 - Solana 鏈上股票佔全球預售 99%（$15 億）；Solana 穩定幣月成交 $1 兆
@@ -19,6 +20,7 @@ tags: [crypto, defi]
 
 ## Key Events
 
+- **2026-04-24** — Centrifuge TVL 30 天成長 52% 至 $18.9 億，歐洲中小企業發票上鏈後已在 Aave v3 作為抵押品借款。傳統金融資產開始被 DeFi 流動性直接消化。Source: [[raw/2026/04/24]]
 - **2026-04-21** — 高盛每天在 Canton Network 結算超 $10 億 tokenize repo，DTCC 測試美股結算上鏈。Coinbase + Bybit 洽談美股代幣化。Ripple 與韓國 $890 億保險巨頭合作建政府債券交易平台。Solana 鏈上穩定幣持有時間壓縮到 70 秒、月成交 $1 兆。傳統金融上鏈全面加速。Source: [[raw/2026/04/21]]
 - **2026-04-12** — Kamino RWA 借貸在 SOL 季跌 36% 的背景下仍破 $10 億。Source: [[raw/2026/04/12]]
 - **2026-04-10** — RWA 永續合約（黃金/白銀/原油掛鉤）6 個月暴漲 40 倍。Binance TradFi 永續合約 Q1 成長 188%。Polygon/Frax/Curve 瞄準 $6.6 兆外匯市場。Source: [[raw/2026/04/10]]
@@ -27,4 +29,4 @@ tags: [crypto, defi]
 
 ## Related
 
-[[solana]] [[binance]] [[stablecoins]] [[btc-etf]] [[franklin-templeton]] [[goldman-sachs]] [[coinbase]] [[bybit]] [[ripple]]
+[[solana]] [[binance]] [[stablecoins]] [[btc-etf]] [[franklin-templeton]] [[goldman-sachs]] [[coinbase]] [[bybit]] [[ripple]] [[centrifuge]] [[aave]]

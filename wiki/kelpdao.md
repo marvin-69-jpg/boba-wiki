@@ -1,7 +1,7 @@
 ---
 aliases: [KelpDAO, rsETH, kelp.dao]
 first_seen: 2026-04-20
-last_updated: 2026-04-23
+last_updated: 2026-04-24
 tags: [crypto, defi]
 ---
 
@@ -11,6 +11,8 @@ tags: [crypto, defi]
 
 ## Current Status
 
+- **DeFi United 救援基金啟動**：Lido 提案 2,500 stETH、Mantle 提案 30,000 ETH（$7,000 萬）協力填補缺口（as of 2026-04-24）
+- **MEXC 新地雷**：在 Aave v3 借 $2.6 億，健康因子 1.01，6-8 天可能強制清算（as of 2026-04-24）
 - **Arbitrum 安全委員會凍結黑客 30,766 ETH（$71M）**，但黑客早已在以太坊主網洗走 75,701 ETH（$175M）（as of 2026-04-22）
 - 凍結只攔截到 ~29%，L2 去中心化爭論引爆：幾個 multisig 就能凍 ETH
 - **Aave TVL 從事件前 $26.4B 跌至 $16.4B**（蒸發 $9.9B）
@@ -18,6 +20,7 @@ tags: [crypto, defi]
 
 ## Key Events
 
+- **2026-04-24** — DeFi United 救援基金成立：Lido 提案 2,500 stETH、Mantle 提案 30,000 ETH（$7,000 萬），協力填補 rsETH 缺口。但 MEXC 在 Aave v3 借 $2.6 億，健康因子 1.01，6-8 天可能強制清算——地雷沒全清。Source: [[raw/2026/04/24]]
 - **2026-04-23** — 後續重整持續進行，Aave TVL 累計失血超 $10B；Spark 和 Morpho 各吸 ~$1B 新存款；Fluid 幫用戶取出 16.7 萬 aETH（$4 億）。DeFi 生態在重組，沒有系統性崩潰。Source: [[raw/2026/04/23]]
 - **2026-04-22** — Arbitrum 安全委員會凍結黑客 30,766 ETH（$71M），但黑客早已把以太坊主網 75,701 ETH（$175M）全轉走洗錢——凍結只攔截到 29%。Aave TVL 跌至 $16.4B（事件前 $26.4B，蒸發 $9.9B）。DeFi 社群爭論：幾個 multisig 就能凍你的 ETH，L2 去中心化是真的嗎？Source: [[raw/2026/04/22]]
 - **2026-04-21** — WuBlockchain：KelpDAO 正準備備忘錄，稱 rsETH 連鎖崩潰是 LayerZero 橋的基礎設施問題，試圖卸責。Aave 壞賬 $124M–$230M，啟動逃生門讓存款人分批出場。DeFi 三週損失超 $600M，TVL 跌 25%。Source: [[raw/2026/04/21]]
@@ -25,4 +28,4 @@ tags: [crypto, defi]
 
 ## Related
 
-[[aave]] [[solana]] [[eth]] [[jupiter]] [[drift]] [[layerzero]] [[arbitrum]] [[fluid]] [[spark]] [[morpho]]
+[[aave]] [[solana]] [[eth]] [[jupiter]] [[drift]] [[layerzero]] [[arbitrum]] [[fluid]] [[spark]] [[morpho]] [[lido]] [[mantle]] [[mexc]]

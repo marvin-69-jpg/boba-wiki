@@ -1,7 +1,7 @@
 ---
 aliases: [Bitcoin ETF, BTC ETF, 比特幣 ETF]
 first_seen: 2026-03-22
-last_updated: 2026-04-23
+last_updated: 2026-04-24
 tags: [crypto, defi]
 ---
 
@@ -11,15 +11,17 @@ tags: [crypto, defi]
 
 ## Current Status
 
-- 4/22 單日淨流出 **-$38.4M（-485 BTC）**，但 7 日累計仍 **+$1.1B**，機構方向未變（as of 2026-04-23）
-- **Goldman Sachs** 提交 covered-call BTC income ETF，瞄準 $12T 固定收益市場——不再只是 crypto 投資人的產品
-- **Morgan Stanley MSBT 費率 0.14% 史上最低，6 天吸 $100M**（上線至今最快機構吸籌）
+- 4/23 單日淨流入 **+4,349 BTC（+$3.39 億）**，7 日累計 **+$12 億**，**IBIT 單週流入擠進全球所有 ETF 前 1%**（as of 2026-04-24）
+- **Fidelity 宏觀主任**：「BTC 正在建底，為下一波大漲蓄力」
+- **KraneShares Coinbase 50 ETF（$KCOI，費率 0.68%）** 即將上線；**GSR 推首檔主動配置 ETF（$BESO）**，對沖基金 ETF 使用量三年翻三倍至 **$3,000 億**
+- **Goldman Sachs** 已提交 covered-call BTC income ETF，瞄準 $12T 固定收益市場
+- **Morgan Stanley MSBT 費率 0.14% 史上最低，6 天吸 $100M**（上線至今最快機構吸籌速度）
 - **Strategy 持幣 815,061 BTC 正式超越 BlackRock IBIT（806,700 BTC）**——史上最大 ETF 讓位為第二
-- **Grayscale** 向 SEC 提交 Hyperliquid ETF 修訂案（換保管方），積極推進
 - Bitwise（$BHYP）、21Shares（$THYP）、Grayscale 三家同時在推 HYPE ETF
 
 ## Key Events
 
+- **2026-04-24** — 4/23 淨流入 +4,349 BTC（+$3.39 億），7 日累計 $12 億，IBIT 單週流入擠進全球所有 ETF 前 1%。Fidelity 宏觀主任稱「BTC 正在建底，為下一波大漲蓄力」。KraneShares 推 $KCOI（費率 0.68%）即將上線；GSR 推首檔主動配置 ETF（$BESO）；對沖基金 ETF 使用量三年翻三倍至 $3,000 億。Source: [[raw/2026/04/24]]
 - **2026-04-23** — 4/22 淨流出 485 顆（-$38.4M），但 7 天累計仍 +$1.1B。ETF 短暫日流出不代表機構退場，7 日正流向是核心訊號。21Shares 接近提交 spot HYPE ETF，GSR 推出 $BESO（DeFi 廣泛配置），ETF 創新持續。Source: [[raw/2026/04/23]]
 - **2026-04-22** — 4/21 單日淨流入 +$272M（+3,599 BTC），7 日合計 +$1.43B；ETH ETF 7 日 +$325M。Goldman Sachs 提交 covered-call BTC income ETF，明確瞄準 $12T 固定收益市場——這是在跟債券爭資金。MSBT 費率 0.14% 歷史最低，6 天吸 $100M。Source: [[raw/2026/04/22]]
 - **2026-04-21** — 4/20 單日淨流入 +$608M（+8,036 BTC），週流入 $997M，IBIT 週貢獻 $906M。Strategy 持幣 815,061 BTC 正式超越 BlackRock IBIT 802,000+ BTC，史上最大 ETF 讓位第二。Grayscale 向 SEC 提交 Hyperliquid ETF 修訂案，換保管方 Coinbase→Anchorage。Source: [[raw/2026/04/21]]
@@ -40,4 +42,4 @@ tags: [crypto, defi]
 
 ## Related
 
-[[btc]] [[eth]] [[morgan-stanley]] [[hyperliquid]] [[sec]] [[schwab]] [[blackrock]] [[franklin-templeton]] [[goldman-sachs]] [[grayscale]] [[strategy]]
+[[btc]] [[eth]] [[morgan-stanley]] [[hyperliquid]] [[sec]] [[schwab]] [[blackrock]] [[franklin-templeton]] [[goldman-sachs]] [[grayscale]] [[strategy]] [[fidelity]]

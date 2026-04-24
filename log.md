@@ -187,3 +187,21 @@ First ingest — batch processing 4 days of daily reports to bootstrap the wiki.
   - anthropic ↔ kimi ↔ google
   - btc ↔ morgan-stanley ↔ goldman-sachs ↔ square
   - kevin-warsh ↔ btc
+
+## [2026-04-24] ingest | BOBA Daily 4/24
+
+- **Created (9 pages)**:
+  - intel.md, meta.md, x402.md, virtuals.md, centrifuge.md, mexc.md, lido.md, mantle.md, fidelity.md
+- **Updated (13 pages)**:
+  - btc-etf.md, bitmine.md, eth.md, tether.md, circle.md, stablecoins.md
+  - aave.md, kelpdao.md
+  - schwab.md, polymarket.md, rwa.md, coinbase.md, us-macro.md
+- **Contradictions resolved**: none
+- **Key narrative**: Tether 配合 OFAC 凍結 Tron 鏈 $3.44 億 USDT，穩定幣「可凍結性」矛盾浮上檯面——法律保護換來的是放棄不可審查性。DeFi United 救援基金啟動（Lido 2,500 stETH + Mantle 30,000 ETH），但 MEXC 新地雷浮現（$2.6 億借貸、健康因子 1.01、6-8 天清算倒數）——DeFi 沒崩，但地雷沒全清。x402 協議 15 天突破 100 萬筆（Virtuals 貢獻 99%），AI Agent 自主鏈上付費進入規模化。Centrifuge TVL $18.9 億（+52%），歐洲發票上鏈可作 Aave v3 抵押品——傳統金融資產被 DeFi 流動性直接消化。Bitcoin ETF 淨流入 +$3.39 億、7 日 +$12 億、IBIT 全球前 1%，Fidelity 宏觀主任「建底論」；Schwab 正式開放 BTC 75bps，股票 $0 vs BTC 75bps 道出毛利真相。Intel Q1 財報超預期，突破 26 年高點；Meta 裁員 8,000 人但 NAAIM 指數四週跳 19 點到 79，大廠縮編 + 資金回流並行。Polymarket $4 億融資估值 $150 億，但天氣市場遭吹風機操縱，69% 交易者虧損。BitMine 累計 497 萬 ETH（$83.5 億），一家公司超越大多數小國央行黃金儲備。
+- **New cross-links**:
+  - aave ↔ lido ↔ mantle ↔ kelpdao ↔ mexc
+  - btc-etf ↔ fidelity ↔ schwab
+  - coinbase ↔ x402 ↔ virtuals
+  - rwa ↔ centrifuge ↔ aave
+  - us-macro ↔ intel ↔ meta
+  - bitmine ↔ eth（更新持倉）

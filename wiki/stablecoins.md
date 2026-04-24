@@ -1,7 +1,7 @@
 ---
 aliases: [穩定幣, stablecoin]
 first_seen: 2026-03-28
-last_updated: 2026-04-23
+last_updated: 2026-04-24
 tags: [crypto, defi]
 ---
 
@@ -12,7 +12,7 @@ tags: [crypto, defi]
 ## Current Status
 
 - **總供應 $3,200 億 ATH 確認**（as of 2026-04-23），從 2020 年不到 $50 億一路成長至今
-- **Tether + Circle 24 小時內新鑄 $1.5B**，乾火藥待進場
+- **Tether + Circle 過去一週合計鑄造 $47.5 億**，子彈持續補充（as of 2026-04-24）
 - **2025 年穩定幣交易量 $33T vs Visa $14T**——不只超越，是 2.3 倍
 - **DoorDash** 與 Tempo 合作，讓外送員直接領 stablecoin 薪水——從炒幣工具到薪資基礎設施
 - **PACE Act** 正式亮相：讓 fintech/加密公司申請全國支付牌照並直接接入 Fed 支付系統
@@ -21,6 +21,7 @@ tags: [crypto, defi]
 
 ## Key Events
 
+- **2026-04-24** — Tether + Circle 過去一週合計鑄造 $47.5 億穩定幣，子彈持續補充。流動性乾火藥規模龐大。Source: [[raw/2026/04/24]]
 - **2026-04-23** — 穩定幣總市值 $3,200 億 ATH 確認。從 2020 年不到 $50 億到現在，是加密基礎設施走向主流的最直觀里程碑。Source: [[raw/2026/04/23]]
 - **2026-04-22** — Tether + Circle 24 小時內新鑄 $1.5B 穩定幣，乾火藥待進場。2025 年穩定幣交易量 $33T 是 Visa $14T 的 2.3 倍。DoorDash + Tempo：外送員直接領 stablecoin 薪水——落地應用里程碑。PACE Act 亮相，讓 fintech/加密公司申請全國支付牌照並直接接入 Fed 支付系統。Source: [[raw/2026/04/22]]
 - **2026-04-20** — 穩定幣總供應突破 $3,200 億歷史新高。預測市場規模 $580 億同創歷史高點。SEC 委員 Uyeda 稱過去四年 SEC 是「三十年職涯中從沒見過的完全異常值」。Source: [[raw/2026/04/20]]
