@@ -1,7 +1,7 @@
 ---
 aliases: [Grayscale, 灰度, GBTC, ETHE, Grayscale Investments]
 first_seen: 2026-04-21
-last_updated: 2026-04-21
+last_updated: 2026-04-23
 tags: [crypto]
 ---
 
@@ -11,11 +11,14 @@ tags: [crypto]
 
 ## Current Status
 
-- 向 SEC 提交 Hyperliquid ETF 修訂案，**保管方從 Coinbase 換成 Anchorage**，顯示正積極推進（as of 2026-04-21）
-- Bitwise（$BHYP）、21Shares（$THYP）先前已申請，灰度為第三家跟進
+- 4/23 再度更新 Hyperliquid ETF 申請文件，持續積極推進（as of 2026-04-23）
+- **保管方為 Anchorage**（4/21 從 Coinbase 換過來）
+- Bitwise（$BHYP）、21Shares（$THYP）先前已申請，灰度為第三家；GSR 也推出 $BESO
+- 4 家 ETF 競逐，Hyperliquid 是首個 DeFi 原生協議 ETF 競賽主角
 
 ## Key Events
 
+- **2026-04-23** — 再度更新 Hyperliquid ETF 申請文件。同期 21Shares 接近提交 spot HYPE ETF，GSR 也推出 $BESO，競賽白熱化。Source: [[raw/2026/04/23]]
 - **2026-04-21** — 向 SEC 提交 Hyperliquid ETF 修訂案，將保管方從 Coinbase 換成 Anchorage。ETF 申請更換保管方通常代表監管溝通有進展，顯示在積極推進。Source: [[raw/2026/04/21]]
 
 ## Related

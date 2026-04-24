@@ -2,6 +2,30 @@
 
 > Append-only record of all wiki operations.
 
+## [2026-04-23] ingest | BOBA Daily 4/23
+
+- **Created (3 pages)**:
+  - fluid.md, spark.md, believe.md
+- **Updated (22 pages)**:
+  - btc.md, btc-etf.md, strategy.md, blackrock.md
+  - eth.md, bitmine.md
+  - hyperliquid.md, grayscale.md
+  - aave.md, kelpdao.md, morpho.md, circle.md
+  - us-iran.md
+  - tesla.md, openai.md, grok.md, google.md, kimi.md
+  - stablecoins.md
+  - justin-sun.md, trump-crypto.md
+  - spacex.md
+- **Contradictions resolved**: 無
+- **Key narrative**: BTC 突破 $79K；Strategy 815K vs BlackRock 806.7K 格局確認；Hyperliquid ETF 白熱化（21Shares/Grayscale/Bitwise/GSR 四路並進）；油價停火前 15 分鐘 $4.3 億空頭疑雲；Tesla Q1 大超預期、$9B BTC 一顆沒賣、xAI→SpaceX 股權轉換；OpenAI 上市前 $1 兆估值里程碑；Aave 危機後重組：Spark/Morpho 各承接 $1B、Fluid 取出 $4 億 aETH、Circle 提緊急修復提案；穩定幣 $3,200 億 ATH 確認；Justin Sun 正式起訴 WLFI；Believe 創辦人被捕。
+- **New cross-links**:
+  - aave ↔ fluid ↔ spark ↔ morpho ↔ circle
+  - kelpdao ↔ fluid ↔ spark
+  - tesla ↔ spacex ↔ grok
+  - hyperliquid ↔ grayscale ↔ btc-etf
+  - justin-sun ↔ trump-crypto
+  - believe ↔ pump-fun ↔ solana
+
 ## [2026-04-14] ingest | BOBA Daily 4/14
 
 - **Created (6 pages)**:

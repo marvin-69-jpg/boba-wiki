@@ -1,7 +1,7 @@
 ---
 aliases: [Ethereum, 以太坊, ETH]
 first_seen: 2026-03-22
-last_updated: 2026-04-22
+last_updated: 2026-04-23
 tags: [crypto]
 ---
 
@@ -11,14 +11,16 @@ tags: [crypto]
 
 ## Current Status
 
-- 報 **$2,320** 附近（as of 2026-04-22）
-- **BitMine（Tom Lee）** 上週買入 **101,627 ETH（$235M）**，是過去四個月最大單週累積
-- KelpDAO rsETH 連鎖效應持續：Aave TVL 從事件前 $26.4B 跌至 $16.4B（-$9.9B）
+- 報 **$2,320** 附近（as of 2026-04-23）
+- **BitMine（Tom Lee）再質押 61,232 ETH（$1.42 億）**，持續累積
+- 新創錢包從幣安提出 3.5 萬顆 ETH（$8,070 萬），機構/鯨魚持續離場交易所
+- KelpDAO/Aave 危機後續重整：Spark、Morpho 各承接 $1B，Fluid 幫取出 16.7 萬 aETH（$4 億）
 - 交易所餘額 1,500 萬枚，10 年新低（籌碼仍鎖定中）
 - 鏈上質押量佔 ETH 總供應 32%，歷史新高
 
 ## Key Events
 
+- **2026-04-23** — 新創錢包從幣安提走 3.5 萬顆 ETH（$8,070 萬）；BitMine 再質押 61,232 顆 ETH（$1.42 億）。機構/鯨魚持續累積，Aave 危機後 DeFi 資金重組仍在進行。Source: [[raw/2026/04/23]]
 - **2026-04-22** — KelpDAO 後續：Arbitrum 安全委員會凍結黑客 30,766 ETH（$71M），但黑客早已在主網轉走 75,701 ETH（$175M）。Aave TVL 從事件前 $26.4B 跌至 $16.4B（蒸發 $9.9B）。L2 去中心化爭論引爆：幾個 multisig 就能凍 ETH，去中心化是真的嗎？Source: [[raw/2026/04/22]]
 - **2026-04-21** — BitMine（Tom Lee）上週買入 101,627 ETH（$235M），是過去四個月最大單週累積，總持倉繼續壯大。BlackRock 同週加碼 839 ETH。Aave 壞賬量化 $124M–$230M，啟動逃生門讓存款人分批出場，Morpho 趁亂漲 14%，Aave 跌 33%。Source: [[raw/2026/04/21]]
 - **2026-04-20** — 跌破 $2,300 至 $2,274。鯨魚明顯分歧：一條在 $2,289 開 $10 億 ETH 多單，另一條今晨出清 9,765 ETH。KelpDAO rsETH 被駭後，Solana 借貸利率飆升，Aave TVL 一週跌 $84 億——流動性壓力在全鏈傳導。Source: [[raw/2026/04/20]]

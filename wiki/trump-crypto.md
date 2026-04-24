@@ -1,7 +1,7 @@
 ---
 aliases: [WLFI, World Liberty Financial, TRUMP coin, Trump 加密]
 first_seen: 2026-03-26
-last_updated: 2026-04-13
+last_updated: 2026-04-23
 tags: [crypto, regulation, people]
 ---
 
@@ -11,7 +11,7 @@ tags: [crypto, regulation, people]
 
 ## Current Status
 
-- **WLFI vs Justin Sun 法律戰**：孫宇晨指控 WLFI 代幣合約有後門可凍結持有者資產，WLFI 宣布採法律途徑（as of 2026-04-13）
+- **Justin Sun 正式起訴 WLFI**（as of 2026-04-23）：從指控「後門可凍結資產」升級為正式訴訟，聲稱持有的 WLFI 代幣遭凍結
 - **Chaos Labs 報告**：WLFI 在 Dolomite 的槓桿循環已接近上限，佔平台 TVL 的 **82.7%**，用途不明
 - **$TRUMP 鯨魚囤貨**：午餐會前，8DHkza 兩天從 Bybit 提 85 萬枚（$2.4M），7EtuAt 持 113 萬枚（$3.2M）
 - WLFI 每賺 $1 有 $0.75 流入家族實體
@@ -20,6 +20,7 @@ tags: [crypto, regulation, people]
 
 ## Key Events
 
+- **2026-04-23** — Justin Sun 正式提告 WLFI，聲稱持有的 WLFI 代幣遭凍結。從 4/13 公開指控「後門可凍結資產」升級為法律訴訟，WLFI/Trump 家族加密利益鏈進入司法階段。Source: [[raw/2026/04/23]]
 - **2026-04-13** — Justin Sun 指控 WLFI 代幣合約有後門，WLFI 宣布法律途徑。$TRUMP 鯨魚大量囤貨（8DHkza 提 85 萬枚、7EtuAt 持 113 萬枚），市場推測為 Trump 午餐會。Chaos Labs：WLFI 在 Dolomite 槓桿循環佔 TVL 82.7%，接近上限。Source: [[raw/2026/04/13]]
 - **2026-04-12** — 瘋傳長文（6K 讚、2K 轉）以 WLFI「Web3 大使」第一人稱逐條拆解 Trump 家族加密利益結構。每段以「這些事件無關」反諷收尾。Source: [[raw/2026/04/12]]
 - **2026-04-10** — 參議員公開質疑 TRUMP 幣午宴。排行榜活動延 4 天到 4/14。Source: [[raw/2026/04/10]]

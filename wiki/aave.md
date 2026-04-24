@@ -1,7 +1,7 @@
 ---
 aliases: [Aave, AAVE]
 first_seen: 2026-03-24
-last_updated: 2026-04-22
+last_updated: 2026-04-23
 tags: [crypto, defi]
 ---
 
@@ -11,14 +11,17 @@ DeFi 最大借貸協議，2026 年 3 月底上線 V4 主網，4/14 DAO 通過收
 
 ## Current Status
 
-- **TVL 已跌至 $16.4B**（事件前 $26.4B，蒸發 $9.9B）（as of 2026-04-22）
-- 壞賬量化 $124M–$230M（保守 / 激進兩個情境），逃生門持續讓存款人分批出場
-- **Aave 跌 33%，Morpho 趁亂漲 14%**，DeFi 三週失血超 $600M
+- **TVL 自事件後累計失血超 $100 億（$10B+）**（as of 2026-04-23），持續下滑
+- 壞賬量化 $124M–$230M（保守 / 激進兩個情境）
+- **Spark 和 Morpho 各自承接約 $1B 新存款**，資金在 DeFi 內部重新分配，沒有完全崩潰
+- **Circle 提出緊急修復提案**：建議調高 Aave 的 USDC 上限讓流動性正常化
+- **Fluid 贖回機制幫用戶取出約 16.7 萬 aETH（$4 億）**，成為逃生出口之一
 - DAO 通過「Aave Will Win」框架：所有 Aave 品牌產品收入 **100% 歸入 DAO 國庫**（as of 2026-04-14）
 - V4 主網已上線（2026-03-31），採用新 hub-and-spoke 架構
 
 ## Key Events
 
+- **2026-04-23** — TVL 累計失血超 $10B；Spark、Morpho 各承接約 $1B 新存款。Circle 提緊急修復提案，建議調高 USDC 上限讓流動性正常化；Fluid 幫用戶取出 16.7 萬 aETH（$4 億）。DeFi 生態在重組，沒有整體崩潰。Source: [[raw/2026/04/23]]
 - **2026-04-22** — Aave TVL 跌至 $16.4B（事件前 $26.4B，蒸發 $9.9B）。KelpDAO 後續：Arbitrum 凍結 $71M 但黑客早已洗走 $175M。ETH 存款人透過逃生門持續出場。Source: [[raw/2026/04/22]]
 - **2026-04-21** — 正式公布兩種情境：保守 $124M、激進 $230M 壞賬，討論損失社會化或依快照區分補償。DeFi 協議聯手啟動「逃生門」讓 Aave ETH 存款人分批出場。Aave 同期跌 33%，Morpho 趁亂漲 14%。WuBlockchain 統計過去三週 DeFi 損失超 $600M，TVL 跌 25% 至 $82.4B。Source: [[raw/2026/04/21]]
 - **2026-04-20** — KelpDAO rsETH 被駭後，Aave TVL 從 $264 億崩至 $180 億（一週 -$84 億）。0xngmi 推演三條善後出路：全用戶共擔、放棄 L2 rsETH 持有人、依快照區分——三條路皆代價沉重。Source: [[raw/2026/04/20]]
@@ -33,4 +36,4 @@ DeFi 最大借貸協議，2026 年 3 月底上線 V4 主網，4/14 DAO 通過收
 
 ## Related
 
-[[eth]] [[solana]] [[balancer]] [[morpho]] [[apollo]] [[kelpdao]] [[jupiter]] [[lazarus]] [[layerzero]] [[arbitrum]]
+[[eth]] [[solana]] [[balancer]] [[morpho]] [[apollo]] [[kelpdao]] [[jupiter]] [[lazarus]] [[layerzero]] [[arbitrum]] [[fluid]] [[spark]] [[circle]]

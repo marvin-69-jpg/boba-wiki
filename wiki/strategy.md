@@ -1,7 +1,7 @@
 ---
 aliases: [Strategy, MicroStrategy, Saylor, STRC]
 first_seen: 2026-03-24
-last_updated: 2026-04-21
+last_updated: 2026-04-23
 tags: [crypto]
 ---
 
@@ -11,12 +11,13 @@ Michael Saylor 領導的比特幣企業持有者。持續大量買入 BTC，2026
 
 ## Current Status
 
-- 總持倉 **815,061 BTC**（as of 2026-04-21）——正式超越 BlackRock IBIT 的 802,000+ BTC
+- 總持倉 **815,061 BTC**（as of 2026-04-23）——正式超越 BlackRock IBIT 的 806,700 BTC
 - 上週（4/13-4/19）買入 **34,164 BTC（$2.54B）**，均價 $74,395——Saylor 有史以來最大單週買入
 - TD Securities 已將此類「上市比特幣國庫公司（PBTCs）」列為獨立可投資資產類別
 
 ## Key Events
 
+- **2026-04-23** — 815,061 BTC 持倉獲 4/23 日報再次確認為全球最大 BTC 持有方（BlackRock 806,700 BTC）。BTC 突破 $79K，Strategy 帳面獲利持續擴大。Source: [[raw/2026/04/23]]
 - **2026-04-21** — 披露上週買入 34,164 BTC，花費 $2.54B，均價 $74,395——Saylor 有史以來最大單週買入。總持幣 815,061 BTC，正式超越 BlackRock IBIT（802,000+ BTC），史上最大加密 ETF 讓位為第二大。散戶恐慌，機構加碼，方向繼續相反。Source: [[raw/2026/04/21]]
 - **2026-04-14** — 披露 4/6-4/12 以均價 $71,902 買入 13,927 BTC（花費約 $10 億），總持倉 780,897 BTC（$553 億），浮虧 6.22%。恐慌期間機構逆勢重倉。TD Securities 同日將此類 PBTCs 列為獨立可投資資產類別。Source: [[raw/2026/04/14]]
 - **2026-04-13** — Saylor 發文「Think ₿igger」，市場解讀為 Strategy 即將再度加碼 BTC 的暗示。恐懼指數 12，鏈上機構逆勢訊號。Source: [[raw/2026/04/13]]
