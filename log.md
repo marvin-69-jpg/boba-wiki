@@ -119,3 +119,26 @@ First ingest — batch processing 4 days of daily reports to bootstrap the wiki.
   - kelpdao ↔ jupiter ↔ pump-fun ↔ solana
   - lazarus ↔ drift ↔ aave ↔ solana ↔ eth
   - grok ↔ anthropic ↔ openai ↔ x-twitter
+
+## [2026-04-21] ingest | BOBA Daily 4/21
+
+- **Created (7 pages)**:
+  - apple.md, paul-atkins.md, amazon.md, layerzero.md, grayscale.md, bybit.md, ripple.md
+- **Updated (20 pages)**:
+  - btc.md, eth.md, btc-etf.md
+  - strategy.md, blackrock.md, bitmine.md, morgan-stanley.md
+  - aave.md, kelpdao.md, morpho.md
+  - anthropic.md
+  - us-iran.md, us-macro.md
+  - sec.md, kevin-warsh.md
+  - hyperliquid.md, coinbase.md, goldman-sachs.md, solana.md, rwa.md
+- **Contradictions resolved**: none
+- **Key narrative**: Strategy 815,061 BTC 正式超越 BlackRock IBIT——史上最大加密 ETF 讓位第二，Saylor 上週買入 34,164 BTC（$2.54B）是有史以來最大單週買入。BitMine（Tom Lee）同週買入 101,627 ETH（$235M）。Aave 壞賬量化 $124M–$230M，啟動逃生門，KelpDAO 把責任推給 LayerZero。Tim Cook 退場 + Amazon 追加 $25B Anthropic——科技圈交棒方向是 AI。Atkins SEC 宣告終結「regulation by enforcement」。美伊停火 4/23 到期，Trump 稱不可能延長。Hyperliquid HYPE 一週 +24%，Grayscale 換保管方積極推 ETF。高盛 Canton Network 每天結算 $10億+ tokenize repo，傳統金融上鏈全面加速。
+- **New cross-links**:
+  - strategy ↔ blackrock ↔ btc ↔ btc-etf
+  - bitmine ↔ eth ↔ btc
+  - aave ↔ morpho ↔ kelpdao ↔ layerzero ↔ eth ↔ solana
+  - anthropic ↔ amazon ↔ apple
+  - sec ↔ paul-atkins ↔ kevin-warsh
+  - hyperliquid ↔ grayscale ↔ coinbase ↔ btc-etf
+  - rwa ↔ goldman-sachs ↔ coinbase ↔ bybit ↔ ripple ↔ solana

@@ -1,7 +1,7 @@
 ---
 aliases: [Morgan Stanley, MSBT, 摩根士丹利]
 first_seen: 2026-03-26
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 tags: [crypto]
 ---
 
@@ -11,14 +11,14 @@ tags: [crypto]
 
 ## Current Status
 
-- 表示股市正處於修正的「最後階段」（as of 2026-04-14）
+- **ETF 加碼 215 BTC**（as of 2026-04-21）
 - $MSBT 04/08 正式上線交易，Bloomberg 分析師稱可能引爆費率戰
-- Strategy CEO 稱之「Monster Bitcoin」
 - $6 兆 AUM + 16,000 名理財顧問現可推薦 BTC 產品
 - 首日成交 $2,700 萬（MS 史上最佳 ETF 首日）
 
 ## Key Events
 
+- **2026-04-21** — ETF 加碼 215 BTC，與 BlackRock 加碼 3,372 BTC 同日披露。TradFi 機構持續加碼，方向未變。Source: [[raw/2026/04/21]]
 - **2026-04-20** — 加碼 BTC。日報調侃：「2017 年說比特幣真實價值可能是零，現在在慶祝買了兩倍。」與 Goldman BTC ETF、Schwab 推現貨並列為本週 TradFi 全面執行的代表。Source: [[raw/2026/04/20]]
 - **2026-04-14** — 表示 $2 兆規模股市正處於修正「最後階段」，如果預測正確，調整快結束了。Source: [[raw/2026/04/14]]
 - **2026-04-09** — $MSBT 首日成交超 $2,700 萬。Source: [[raw/2026/04/09]]

@@ -1,7 +1,7 @@
 ---
 aliases: [Bitcoin ETF, BTC ETF, 比特幣 ETF]
 first_seen: 2026-03-22
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 tags: [crypto, defi]
 ---
 
@@ -11,14 +11,15 @@ tags: [crypto, defi]
 
 ## Current Status
 
-- 上週淨流入 **$9.97 億**，**IBIT** 一家吸走 **$9.06 億**（as of 2026-04-20，機構逆勢入場）
-- **Goldman Sachs** BTC covered call ETF 已在銷售；Morgan Stanley 加碼 BTC
-- **嘉信理財（Schwab）** 幾週內推出 BTC、ETH 現貨直接交易——TradFi 全面執行期
-- Canary 已申請 PEPE ETF，meme 幣也在叩關傳統金融
-- Bitwise 申請了 Hyperliquid ETF（$BHYP），DeFi 原生協議首次進入 ETF
+- 4/20 單日淨流入 **+$608M（+8,036 BTC）**，週流入 $997M，IBIT 週貢獻 $906M（as of 2026-04-21）
+- **Strategy 持幣 815,061 BTC 正式超越 BlackRock IBIT（802,000+ BTC）**——史上最大 ETF 讓位為第二
+- **Goldman Sachs** BTC covered call ETF 持續銷售；Morgan Stanley 加碼 215 BTC
+- **Grayscale** 向 SEC 提交 Hyperliquid ETF 修訂案（換保管方），積極推進
+- Bitwise（$BHYP）、21Shares（$THYP）、Grayscale 三家同時在推 HYPE ETF
 
 ## Key Events
 
+- **2026-04-21** — 4/20 單日淨流入 +$608M（+8,036 BTC），週流入 $997M，IBIT 週貢獻 $906M。Strategy 持幣 815,061 BTC 正式超越 BlackRock IBIT 802,000+ BTC，史上最大 ETF 讓位第二。Grayscale 向 SEC 提交 Hyperliquid ETF 修訂案，換保管方 Coinbase→Anchorage。Source: [[raw/2026/04/21]]
 - **2026-04-20** — 上週 BTC ETF 淨流入 $9.97 億，IBIT 一家吸走 $9.06 億——即使 BTC 跌破 $74K，機構仍逆勢買入。Schwab 幾週內推出現貨，Goldman BTC ETF 開始銷售，MS 加碼。TradFi 全面執行期確立。Source: [[raw/2026/04/20]]
 - **2026-04-15** — 昨日淨流出 3,539 BTC（$2.66 億），但 7 日整體仍淨流入 +508 BTC，機構逢高短暫兌現但中期方向未變。Goldman Sachs 正式申請 Bitcoin Premium Income ETF（covered call 策略），AUM $3.5 兆的高盛品牌掛上 BTC 是最大信號。Source: [[raw/2026/04/15]]
 - **2026-04-14** — 上週單日淨流入 +3,353 BTC（$2.4 億），機構在恐慌最深時反手加碼。Source: [[raw/2026/04/14]]
@@ -36,4 +37,4 @@ tags: [crypto, defi]
 
 ## Related
 
-[[btc]] [[eth]] [[morgan-stanley]] [[hyperliquid]] [[sec]] [[schwab]] [[blackrock]] [[franklin-templeton]] [[goldman-sachs]]
+[[btc]] [[eth]] [[morgan-stanley]] [[hyperliquid]] [[sec]] [[schwab]] [[blackrock]] [[franklin-templeton]] [[goldman-sachs]] [[grayscale]] [[strategy]]

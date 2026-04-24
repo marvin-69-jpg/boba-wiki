@@ -1,23 +1,25 @@
 ---
 aliases: [Aave, AAVE]
 first_seen: 2026-03-24
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 tags: [crypto, defi]
 ---
 
 # Aave
 
-DeFi 最大借貸協議，2026 年 3 月底上線 V4 主網，4/14 DAO 通過收入 100% 歸入國庫。4/20 受 KelpDAO rsETH 駭客連鎖效應重創，TVL 一週失血 $84 億。
+DeFi 最大借貸協議，2026 年 3 月底上線 V4 主網，4/14 DAO 通過收入 100% 歸入國庫。4/20-4/21 受 KelpDAO rsETH 駭客連鎖效應重創，壞賬量化 $124M–$230M。
 
 ## Current Status
 
-- **TVL 從 $264 億跌至 $180 億**，一週失血 $84 億（KelpDAO rsETH 被駭連鎖效應，as of 2026-04-20）
-- DefiLlama 創辦人 0xngmi 推演三條出路：全用戶共擔損失、放棄 L2 rsETH 持有人、或依快照區分還款——皆代價沉重，善後尚未結束
+- **壞賬量化 $124M–$230M**（保守 $124M / 激進 $230M），討論兩個解法：損失社會化或依快照區分補償（as of 2026-04-21）
+- 啟動「逃生門」讓 Aave ETH 存款人**分批出場**
+- **Aave 跌 33%，Morpho 趁亂漲 14%**，DeFi 三週失血超 $600M，TVL 跌 25% 至 $82.4B
 - DAO 通過「Aave Will Win」框架：所有 Aave 品牌產品收入 **100% 歸入 DAO 國庫**（as of 2026-04-14）
 - V4 主網已上線（2026-03-31），採用新 hub-and-spoke 架構
 
 ## Key Events
 
+- **2026-04-21** — 正式公布兩種情境：保守 $124M、激進 $230M 壞賬，討論損失社會化或依快照區分補償。DeFi 協議聯手啟動「逃生門」讓 Aave ETH 存款人分批出場。Aave 同期跌 33%，Morpho 趁亂漲 14%。WuBlockchain 統計過去三週 DeFi 損失超 $600M，TVL 跌 25% 至 $82.4B。Source: [[raw/2026/04/21]]
 - **2026-04-20** — KelpDAO rsETH 被駭後，Aave TVL 從 $264 億崩至 $180 億（一週 -$84 億）。0xngmi 推演三條善後出路：全用戶共擔、放棄 L2 rsETH 持有人、依快照區分——三條路皆代價沉重。Source: [[raw/2026/04/20]]
 
 **2026-04-14** — DAO 正式通過「Aave Will Win」框架首個約束性提案：所有 Aave 品牌產品的收入 100% 歸入 DAO 國庫。DeFi 從「野生協議」到「有制度的金融基建」的里程碑式治理決策。Source: [[raw/2026/04/14]]
@@ -30,4 +32,4 @@ DeFi 最大借貸協議，2026 年 3 月底上線 V4 主網，4/14 DAO 通過收
 
 ## Related
 
-[[eth]] [[solana]] [[balancer]] [[morpho]] [[apollo]] [[kelpdao]] [[jupiter]] [[lazarus]]
+[[eth]] [[solana]] [[balancer]] [[morpho]] [[apollo]] [[kelpdao]] [[jupiter]] [[lazarus]] [[layerzero]]

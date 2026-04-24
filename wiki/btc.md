@@ -1,7 +1,7 @@
 ---
 aliases: [Bitcoin, 比特幣, BTC]
 first_seen: 2026-03-22
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 tags: [crypto]
 ---
 
@@ -11,15 +11,15 @@ tags: [crypto]
 
 ## Current Status
 
-- 跌破 $74K，現報 **$74,162**（as of 2026-04-20）
-- 主要壓力：美伊二次和談破局，伊朗無人機攻擊美軍艦，油價跳升 7%（布倫特 $97.50）
-- 加密總市值 24h 蒸發 2%，至 $2.589 兆
-- 機構面逆勢：上週 BTC ETF 淨流入 **$9.97 億**，IBIT 一家吸走 **$9.06 億**
-- **$75K 天花板**兩個月以上未能突破
-- 礦工投降 vs 機構買入：方向對立，$75K 仍是關鍵分水嶺
+- 昨日最低觸 $73,700，今日反彈突破 **$76K**，現報 $76,100 附近（as of 2026-04-21）
+- ETF 4/20 單日淨流入 **+$608M（+8,036 BTC）**，週流入 $997M，IBIT 週貢獻 $906M
+- **Strategy 持幣 815,061 BTC 正式超越 BlackRock IBIT 的 802,000+ BTC**——史上最大加密 ETF 讓位
+- 散戶恐慌，機構加碼：方向繼續相反
+- 美伊停火 4/23 到期，Trump 稱「高度不可能延長」，地緣政治風險仍存
 
 ## Key Events
 
+- **2026-04-21** — 昨日最低觸 $73,700 後反彈突破 $76K，現報 $76,100。ETF 4/20 單日淨流入 +$608M（+8,036 BTC）。Strategy 持幣 815,061 BTC 正式超越 BlackRock IBIT 的 802,000+ BTC——史上最大加密 ETF 讓位為第二。美伊停火 4/23 到期，Trump 稱「高度不可能延長」。Source: [[raw/2026/04/21]]
 - **2026-04-20** — 跌破 $74K，現報 $74,162。美伊二次和談破局，伊朗無人機攻擊美軍艦，油價跳升 7%（布倫特 $97.50）。加密總市值 24h 蒸發 2%（$2.589 兆）。機構逆勢：上週 BTC ETF 淨流入 $9.97 億，IBIT 一家吸走 $9.06 億。Source: [[raw/2026/04/20]]
 - **2026-04-17** — 再次挑戰 $75K 失敗，美盤快速回落至 $73,500（-1.5%），兩個月天花板依然堅固。BlackRock 7 小時內從 Coinbase 提走 3,899 BTC（$2.9 億）+ 839 ETH。北美礦企 Q1 合計拋售超 3.2 萬枚 BTC（超去年全年），hashprice 跌至 $35/PH/s 歷史低位，約 20% 礦工已虧損。S&P 500 和 Nasdaq 連漲 12 個交易日創歷史紀錄。Source: [[raw/2026/04/17]]
 - **2026-04-15** — 突破 $76,120 創兩個月新高，報 $74,489（+5%）。Trump 稱美伊「接近結束」帶動多資產同步走高。Matrixport 高點平倉 1,150 BTC + 95,000 ETH（$4,819 萬），鏈上資金費率全面負值（空頭未認輸）。BTC ETF 昨日淨流出 3,539 BTC（$2.66 億），7 日仍淨流入 +508 BTC。Polymarket BTC $80K 年底機率 80%。Source: [[raw/2026/04/15]]
@@ -50,4 +50,4 @@ tags: [crypto]
 
 ## Related
 
-[[btc-etf]] [[us-macro]] [[us-iran]] [[eth]] [[strategy]] [[stablecoins]] [[mara]] [[metaplanet]] [[blackrock]] [[schwab]] [[ftx-alameda]] [[bsc-meme]] [[td-securities]] [[matrixport]] [[polymarket]] [[btc-miners]] [[ordi]]
+[[btc-etf]] [[us-macro]] [[us-iran]] [[eth]] [[strategy]] [[stablecoins]] [[mara]] [[metaplanet]] [[blackrock]] [[schwab]] [[ftx-alameda]] [[bsc-meme]] [[td-securities]] [[matrixport]] [[polymarket]] [[btc-miners]] [[ordi]] [[bitmine]]
